@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Newark Broad Street" label="Newark Broad Street" />
+      <node id="East Orange" label="East Orange" />
+      <node id="Brick Church" label="Brick Church" />
+      <node id="Orange" label="Orange" />
+      <node id="Highland Avenue" label="Highland Avenue" />
+      <node id="Mountain Station" label="Mountain Station" />
+      <node id="South Orange" label="South Orange" />
+      <node id="Maplewood" label="Maplewood" />
+      <node id="Millburn" label="Millburn" />
+      <node id="Short Hills" label="Short Hills" />
+      <node id="Summit" label="Summit" />
+      <node id="New Providence" label="New Providence" />
+      <node id="Murray Hill" label="Murray Hill" />
+      <node id="Berkeley Heights" label="Berkeley Heights" />
+      <node id="Gillette" label="Gillette" />
+      <node id="Stirling" label="Stirling" />
+      <node id="Millington" label="Millington" />
+      <node id="Lyons" label="Lyons" />
+      <node id="Basking Ridge" label="Basking Ridge" />
+      <node id="Bernardsville" label="Bernardsville" />
+      <node id="Far Hills" label="Far Hills" />
+      <node id="Peapack" label="Peapack" />
+      <node id="Gladstone" label="Gladstone" />
+    </nodes>
+    <edges>
+      <edge source="New York Penn Station" target="Newark Broad Street" id="0" weight="14.9" />
+      <edge source="Newark Broad Street" target="East Orange" id="1" weight="4.2" />
+      <edge source="East Orange" target="Brick Church" id="2" weight="0.6" />
+      <edge source="Brick Church" target="Orange" id="3" weight="1.4" />
+      <edge source="Orange" target="Highland Avenue" id="4" weight="0.9" />
+      <edge source="Highland Avenue" target="Mountain Station" id="5" weight="1.9" />
+      <edge source="Mountain Station" target="South Orange" id="6" weight="1.1" />
+      <edge source="South Orange" target="Maplewood" id="7" weight="2.4" />
+      <edge source="Maplewood" target="Millburn" id="8" weight="1.7" />
+      <edge source="Millburn" target="Short Hills" id="9" weight="3.5" />
+      <edge source="Short Hills" target="Summit" id="10" weight="5.1" />
+      <edge source="Summit" target="New Providence" id="11" weight="3.6" />
+      <edge source="New Providence" target="Murray Hill" id="12" weight="0.1" />
+      <edge source="Murray Hill" target="Berkeley Heights" id="13" weight="3.5" />
+      <edge source="Berkeley Heights" target="Gillette" id="14" weight="2.9" />
+      <edge source="Gillette" target="Stirling" id="15" weight="1.6" />
+      <edge source="Stirling" target="Millington" id="16" weight="2.3" />
+      <edge source="Millington" target="Lyons" id="17" weight="3.3" />
+      <edge source="Lyons" target="Basking Ridge" id="18" weight="3.2" />
+      <edge source="Basking Ridge" target="Bernardsville" id="19" weight="2.3" />
+      <edge source="Bernardsville" target="Far Hills" id="20" weight="6.4" />
+      <edge source="Far Hills" target="Peapack" id="21" weight="3.7" />
+      <edge source="Peapack" target="Gladstone" id="22" weight="0.7" />
+    </edges>
+  </graph>
+</gexf>

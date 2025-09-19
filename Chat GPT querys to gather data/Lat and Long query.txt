@@ -1,0 +1,280 @@
+poderia me dar no seguinte formato, [Raritan Valley,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha raritam valley ? New York Penn Station
+Secaucus Upper Lvl
+Newark Penn Station
+Union
+Roselle Park
+Cranford
+Garwood
+Westfield
+Fanwood
+Netherwood
+Plainfield
+Dunellen
+Bound Brook
+Bridgewater
+Somerville
+Raritan
+North Branch
+White House
+Lebanon
+Annandale
+High Bridge
+
+e depois 
+
+
+poderia me dar no seguinte formato, [Princeton Shuttle,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Princeton Shuttle ? 
+Princeton Junction
+Princeton
+
+e depois 
+
+poderia me dar no seguinte formato, [Pascack Valley,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Pascack Valley ? 
+Montvale
+Wood Ridge
+Anderson Street
+Oradell
+Emerson
+Westwood
+River Edge
+Hillsdale
+Park Ridge
+Hoboken
+Essex Street
+New Bridge Landing
+Pearl River
+Nanuet
+Spring Valley
+Woodcliff Lake
+Secaucus Lower Lvl
+Teterboro
+
+
+Poderia me dar no seguinte formato, [Northeast Corrdr,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Northeast Corridor ? 
+Elizabeth
+Edison
+Hamilton
+Secaucus Upper Lvl
+North Elizabeth
+Newark Penn Station
+Metropark
+New York Penn Station
+Newark Airport
+Trenton
+Linden
+Rahway
+New Brunswick
+Jersey Avenue
+Metuchen
+Princeton Junction
+
+e depois 
+Poderia me dar no seguinte formato, [No Jersey Coast,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Noarth Jersey Coast ? 
+
+
+North Elizabeth
+Allenhurst
+Linden
+Rahway
+South Amboy
+Red Bank
+Long Branch
+Avenel
+Perth Amboy
+Little Silver
+New York Penn Station
+Newark Airport
+Spring Lake
+Asbury Park
+Middletown NJ
+Secaucus Upper Lvl
+Aberdeen-Matawan
+Hazlet
+Manasquan
+Woodbridge
+Belmar
+Bay Head
+Elizabeth
+Elberon
+Bradley Beach
+Hoboken
+Newark Penn Station
+Point Pleasant Beach
+
+
+e depois 
+
+Poderia me dar no seguinte formato, [Morristown Line,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Morristown Line ? 
+
+Orange
+Morristown
+Mount Olive
+New York Penn Station
+Madison
+Convent Station
+East Orange
+Netcong
+Highland Avenue
+Chatham
+Hoboken
+Mount Tabor
+Lake Hopatcong
+Dover
+Newark Broad Street
+Short Hills
+Mount Arlington
+Secaucus Upper Lvl
+Mountain Station
+South Orange
+Maplewood
+Millburn
+Summit
+Brick Church
+Morris Plains
+Denville
+Hackettstown
+
+
+e depois 
+Poderia me dar no seguinte formato, [Montclair-Boonton,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Montclair-Boonton ? 
+
+
+Newark Broad Street
+Mount Arlington
+Hackettstown
+Secaucus Upper Lvl
+Bloomfield
+Boonton
+Little Falls
+Netcong
+Wayne-Route 23
+Denville
+New York Penn Station
+Bay Street
+Mountain View
+Towaco
+Mount Olive
+Watsessing Avenue
+Lincoln Park
+Glen Ridge
+Walnut Street
+Watchung Avenue
+Upper Montclair
+Mountain Avenue
+Lake Hopatcong
+Hoboken
+Montclair Heights
+Montclair State U
+Mountain Lakes
+Dover
+
+e depois 
+
+Poderia me dar no seguinte formato, [Main Line,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Main Line NJ transit ? 
+
+Lyndhurst
+Clifton
+Sloatsburg
+Passaic
+Otisville
+Hoboken
+Kingsland
+Mahwah
+Delawanna
+Tuxedo
+Salisbury Mills-Cornwall
+Middletown NY
+Port Jervis
+Paterson
+Glen Rock Main Line
+Ridgewood
+Waldwick
+Allendale
+Ho-Ho-Kus
+Ramsey Route 17
+Suffern
+Campbell Hall
+Hawthorne
+Ramsey Main St
+Secaucus Lower Lvl
+Harriman 
+
+e depois 
+
+Poderia me dar no seguinte formato, [Gladstone Branch,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Gladstone Branch ? 
+
+Murray Hill
+Berkeley Heights
+Gladstone
+Maplewood
+Stirling
+Far Hills
+Peapack
+Orange
+Gillette
+Hoboken
+Lyons
+Basking Ridge
+Newark Broad Street
+East Orange
+Millburn
+New Providence
+Brick Church
+Highland Avenue
+South Orange
+Mountain Station
+Millington
+Bernardsville
+New York Penn Station
+Short Hills
+Summit
+
+e depois 
+
+Poderia me dar no seguinte formato, [Bergen Co. Line,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Bergen County Line ? 
+
+
+Hoboken
+Garfield
+Ridgewood
+Middletown NY
+Ho-Ho-Kus
+Salisbury Mills-Cornwall
+Allendale
+Mahwah
+Suffern
+Tuxedo
+Harriman
+Wesmont
+Glen Rock Boro Hall
+Ramsey Route 17
+Broadway Fair Lawn
+Plauderville
+Ramsey Main St
+Secaucus Lower Lvl
+Waldwick
+Radburn Fair Lawn
+Rutherford
+Sloatsburg
+Campbell Hall
+Otisville
+Port Jervis 
+
+e depois
+
+Poderia me dar no seguinte formato, [Atl. City Line,nome,x,y] , onde nome é o nome da estação ,x é a latitude e y a longitude para a lista das segunites estações da linha Atlantic City Rail Line ? 
+
+Philadelphia
+Atlantic City Rail Terminal
+Cherry Hill
+Absecon
+Pennsauken
+Egg Harbor City
+Atco
+Lindenwold
+Hammonton 
+
+
+
+
+

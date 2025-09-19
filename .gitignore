@@ -1,0 +1,26 @@
+# Criar/editar o arquivo .gitignore
+echo "# Ignorar arquivos grandes que excedem o limite do GitHub" > .gitignore
+echo "NJtransit_backup.zip" >> .gitignore
+echo "Backup-projetofinal.zip" >> .gitignore
+echo "Backup-projetofinal/" >> .gitignore
+echo "" >> .gitignore
+echo "# Ignorar outros arquivos grandes comuns" >> .gitignore
+echo "*.zip" >> .gitignore
+echo "*.rar" >> .gitignore
+echo "*.7z" >> .gitignore
+echo "*.tar" >> .gitignore
+echo "*.gz" >> .gitignore
+echo "*.bak" >> .gitignore
+echo "*.bak" >> .gitignore
+echo "*.backup" >> .gitignore
+echo "*.iso" >> .gitignore
+echo "*.img" >> .gitignore
+echo "*.vhd" >> .gitignore
+echo "*.vhdx" >> .gitignore
+echo "" >> .gitignore
+echo "# Ignorar pastas de backup e temporárias" >> .gitignore
+echo "backup/" >> .gitignore
+echo "backups/" >> .gitignore
+echo "temp/" >> .gitignore
+echo "tmp/" >> .gitignore
+echo "*.tmp" >> .gitignore

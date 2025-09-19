@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Hoboken" label="Hoboken" />
+      <node id="Secaucus Lower Lvl" label="Secaucus Lower Lvl" />
+      <node id="Kingsland" label="Kingsland" />
+      <node id="Lyndhurst" label="Lyndhurst" />
+      <node id="Delawanna" label="Delawanna" />
+      <node id="Passaic" label="Passaic" />
+      <node id="Clifton" label="Clifton" />
+      <node id="Paterson" label="Paterson" />
+      <node id="Hawthorne" label="Hawthorne" />
+      <node id="Glen Rock Main Line" label="Glen Rock Main Line" />
+      <node id="Ridgewood" label="Ridgewood" />
+      <node id="Ho-Ho-Kus" label="Ho-Ho-Kus" />
+      <node id="Waldwick" label="Waldwick" />
+      <node id="Allendale" label="Allendale" />
+      <node id="Ramsey Main St" label="Ramsey Main St" />
+      <node id="Ramsey Route 17" label="Ramsey Route 17" />
+      <node id="Mahwah" label="Mahwah" />
+      <node id="Suffern" label="Suffern" />
+      <node id="Sloatsburg" label="Sloatsburg" />
+      <node id="Tuxedo" label="Tuxedo" />
+      <node id="Harriman" label="Harriman" />
+      <node id="Salisbury Mills-Cornwall" label="Salisbury Mills-Cornwall" />
+      <node id="Campbell Hall" label="Campbell Hall" />
+      <node id="Middletown NY" label="Middletown NY" />
+      <node id="Otisville" label="Otisville" />
+      <node id="Port Jervis" label="Port Jervis" />
+    </nodes>
+    <edges>
+      <edge source="Hoboken" target="Secaucus Lower Lvl" id="0" weight="6.5" />
+      <edge source="Secaucus Lower Lvl" target="Kingsland" id="1" weight="5.9" />
+      <edge source="Kingsland" target="Lyndhurst" id="2" weight="0.5" />
+      <edge source="Lyndhurst" target="Delawanna" id="3" weight="3.9" />
+      <edge source="Delawanna" target="Passaic" id="4" weight="1.2" />
+      <edge source="Passaic" target="Clifton" id="5" weight="3.1" />
+      <edge source="Clifton" target="Paterson" id="6" weight="4.1" />
+      <edge source="Paterson" target="Hawthorne" id="7" weight="4.3" />
+      <edge source="Hawthorne" target="Glen Rock Main Line" id="8" weight="2.3" />
+      <edge source="Glen Rock Main Line" target="Ridgewood" id="9" weight="2.1" />
+      <edge source="Ridgewood" target="Ho-Ho-Kus" id="10" weight="2.1" />
+      <edge source="Ho-Ho-Kus" target="Waldwick" id="11" weight="1.8" />
+      <edge source="Waldwick" target="Allendale" id="12" weight="2.7" />
+      <edge source="Allendale" target="Ramsey Main St" id="13" weight="3.0" />
+      <edge source="Ramsey Main St" target="Ramsey Route 17" id="14" weight="1.0" />
+      <edge source="Ramsey Route 17" target="Mahwah" id="15" weight="3.8" />
+      <edge source="Mahwah" target="Suffern" id="16" weight="2.9" />
+      <edge source="Suffern" target="Sloatsburg" id="17" weight="6.0" />
+      <edge source="Sloatsburg" target="Tuxedo" id="18" weight="4.2" />
+      <edge source="Tuxedo" target="Harriman" id="19" weight="13.2" />
+      <edge source="Harriman" target="Salisbury Mills-Cornwall" id="20" weight="13.8" />
+      <edge source="Salisbury Mills-Cornwall" target="Campbell Hall" id="21" weight="13.0" />
+      <edge source="Campbell Hall" target="Middletown NY" id="22" weight="11.0" />
+      <edge source="Middletown NY" target="Otisville" id="23" weight="12.5" />
+      <edge source="Otisville" target="Port Jervis" id="24" weight="17.0" />
+    </edges>
+  </graph>
+</gexf>

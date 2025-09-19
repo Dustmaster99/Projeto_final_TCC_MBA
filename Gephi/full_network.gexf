@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Philadelphia" label="Philadelphia" />
+      <node id="Pennsauken" label="Pennsauken" />
+      <node id="Cherry Hill" label="Cherry Hill" />
+      <node id="Lindenwold" label="Lindenwold" />
+      <node id="Atco" label="Atco" />
+      <node id="Hammonton" label="Hammonton" />
+      <node id="Egg Harbor City" label="Egg Harbor City" />
+      <node id="Absecon" label="Absecon" />
+      <node id="Atlantic City Rail Terminal" label="Atlantic City Rail Terminal" />
+      <node id="Hoboken" label="Hoboken" />
+      <node id="Secaucus Lower Lvl" label="Secaucus Lower Lvl" />
+      <node id="Rutherford" label="Rutherford" />
+      <node id="Wesmont" label="Wesmont" />
+      <node id="Garfield" label="Garfield" />
+      <node id="Plauderville" label="Plauderville" />
+      <node id="Broadway Fair Lawn" label="Broadway Fair Lawn" />
+      <node id="Radburn Fair Lawn" label="Radburn Fair Lawn" />
+      <node id="Glen Rock Boro Hall" label="Glen Rock Boro Hall" />
+      <node id="Ridgewood" label="Ridgewood" />
+      <node id="Ho-Ho-Kus" label="Ho-Ho-Kus" />
+      <node id="Waldwick" label="Waldwick" />
+      <node id="Allendale" label="Allendale" />
+      <node id="Ramsey Main St" label="Ramsey Main St" />
+      <node id="Ramsey Route 17" label="Ramsey Route 17" />
+      <node id="Mahwah" label="Mahwah" />
+      <node id="Suffern" label="Suffern" />
+      <node id="Sloatsburg" label="Sloatsburg" />
+      <node id="Tuxedo" label="Tuxedo" />
+      <node id="Harriman" label="Harriman" />
+      <node id="Salisbury Mills-Cornwall" label="Salisbury Mills-Cornwall" />
+      <node id="Campbell Hall" label="Campbell Hall" />
+      <node id="Middletown NY" label="Middletown NY" />
+      <node id="Otisville" label="Otisville" />
+      <node id="Port Jervis" label="Port Jervis" />
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Newark Broad Street" label="Newark Broad Street" />
+      <node id="East Orange" label="East Orange" />
+      <node id="Brick Church" label="Brick Church" />
+      <node id="Orange" label="Orange" />
+      <node id="Highland Avenue" label="Highland Avenue" />
+      <node id="Mountain Station" label="Mountain Station" />
+      <node id="South Orange" label="South Orange" />
+      <node id="Maplewood" label="Maplewood" />
+      <node id="Millburn" label="Millburn" />
+      <node id="Short Hills" label="Short Hills" />
+      <node id="Summit" label="Summit" />
+      <node id="New Providence" label="New Providence" />
+      <node id="Murray Hill" label="Murray Hill" />
+      <node id="Berkeley Heights" label="Berkeley Heights" />
+      <node id="Gillette" label="Gillette" />
+      <node id="Stirling" label="Stirling" />
+      <node id="Millington" label="Millington" />
+      <node id="Lyons" label="Lyons" />
+      <node id="Basking Ridge" label="Basking Ridge" />
+      <node id="Bernardsville" label="Bernardsville" />
+      <node id="Far Hills" label="Far Hills" />
+      <node id="Peapack" label="Peapack" />
+      <node id="Gladstone" label="Gladstone" />
+      <node id="Kingsland" label="Kingsland" />
+      <node id="Lyndhurst" label="Lyndhurst" />
+      <node id="Delawanna" label="Delawanna" />
+      <node id="Passaic" label="Passaic" />
+      <node id="Clifton" label="Clifton" />
+      <node id="Paterson" label="Paterson" />
+      <node id="Hawthorne" label="Hawthorne" />
+      <node id="Glen Rock Main Line" label="Glen Rock Main Line" />
+      <node id="Secaucus Upper Lvl" label="Secaucus Upper Lvl" />
+      <node id="Watsessing Avenue" label="Watsessing Avenue" />
+      <node id="Bloomfield" label="Bloomfield" />
+      <node id="Glen Ridge" label="Glen Ridge" />
+      <node id="Bay Street" label="Bay Street" />
+      <node id="Walnut Street" label="Walnut Street" />
+      <node id="Watchung Avenue" label="Watchung Avenue" />
+      <node id="Upper Montclair" label="Upper Montclair" />
+      <node id="Mountain Avenue" label="Mountain Avenue" />
+      <node id="Montclair Heights" label="Montclair Heights" />
+      <node id="Little Falls" label="Little Falls" />
+      <node id="Wayne-Route 23" label="Wayne-Route 23" />
+      <node id="Mountain View" label="Mountain View" />
+      <node id="Lincoln Park" label="Lincoln Park" />
+      <node id="Towaco" label="Towaco" />
+      <node id="Boonton" label="Boonton" />
+      <node id="Mountain Lakes" label="Mountain Lakes" />
+      <node id="Denville" label="Denville" />
+      <node id="Dover" label="Dover" />
+      <node id="Mount Arlington" label="Mount Arlington" />
+      <node id="Lake Hopatcong" label="Lake Hopatcong" />
+      <node id="Netcong" label="Netcong" />
+      <node id="Mount Olive" label="Mount Olive" />
+      <node id="Hackettstown" label="Hackettstown" />
+      <node id="Chatham" label="Chatham" />
+      <node id="Madison" label="Madison" />
+      <node id="Convent Station" label="Convent Station" />
+      <node id="Morristown" label="Morristown" />
+      <node id="Morris Plains" label="Morris Plains" />
+      <node id="Mount Tabor" label="Mount Tabor" />
+      <node id="Newark Penn Station" label="Newark Penn Station" />
+      <node id="Newark Airport" label="Newark Airport" />
+      <node id="North Elizabeth" label="North Elizabeth" />
+      <node id="Elizabeth" label="Elizabeth" />
+      <node id="Linden" label="Linden" />
+      <node id="Rahway" label="Rahway" />
+      <node id="Avenel" label="Avenel" />
+      <node id="Woodbridge" label="Woodbridge" />
+      <node id="Perth Amboy" label="Perth Amboy" />
+      <node id="South Amboy" label="South Amboy" />
+      <node id="Aberdeen-Matawan" label="Aberdeen-Matawan" />
+      <node id="Allenhurst" label="Allenhurst" />
+      <node id="Asbury Park" label="Asbury Park" />
+      <node id="Red Bank" label="Red Bank" />
+      <node id="Little Silver" label="Little Silver" />
+      <node id="Long Branch" label="Long Branch" />
+      <node id="Manasquan" label="Manasquan" />
+      <node id="Point Pleasant Beach" label="Point Pleasant Beach" />
+      <node id="Bay Head" label="Bay Head" />
+      <node id="Metropark" label="Metropark" />
+      <node id="Metuchen" label="Metuchen" />
+      <node id="Edison" label="Edison" />
+      <node id="New Brunswick" label="New Brunswick" />
+      <node id="Jersey Avenue" label="Jersey Avenue" />
+      <node id="Princeton Junction" label="Princeton Junction" />
+      <node id="Hamilton" label="Hamilton" />
+      <node id="Trenton" label="Trenton" />
+      <node id="Wood Ridge" label="Wood Ridge" />
+      <node id="Teterboro" label="Teterboro" />
+      <node id="Essex Street" label="Essex Street" />
+      <node id="Anderson Street" label="Anderson Street" />
+      <node id="New Bridge Landing" label="New Bridge Landing" />
+      <node id="River Edge" label="River Edge" />
+      <node id="Oradell" label="Oradell" />
+      <node id="Emerson" label="Emerson" />
+      <node id="Westwood" label="Westwood" />
+      <node id="Hillsdale" label="Hillsdale" />
+      <node id="Woodcliff Lake" label="Woodcliff Lake" />
+      <node id="Park Ridge" label="Park Ridge" />
+      <node id="Montvale" label="Montvale" />
+      <node id="Pearl River" label="Pearl River" />
+      <node id="Nanuet" label="Nanuet" />
+      <node id="Spring Valley" label="Spring Valley" />
+      <node id="Princeton" label="Princeton" />
+      <node id="Union" label="Union" />
+      <node id="Roselle Park" label="Roselle Park" />
+      <node id="Cranford" label="Cranford" />
+      <node id="Garwood" label="Garwood" />
+      <node id="Westfield" label="Westfield" />
+      <node id="Fanwood" label="Fanwood" />
+      <node id="Netherwood" label="Netherwood" />
+      <node id="Plainfield" label="Plainfield" />
+      <node id="Dunellen" label="Dunellen" />
+      <node id="Bound Brook" label="Bound Brook" />
+      <node id="Bridgewater" label="Bridgewater" />
+      <node id="Somerville" label="Somerville" />
+      <node id="Raritan" label="Raritan" />
+      <node id="North Branch" label="North Branch" />
+      <node id="White House" label="White House" />
+      <node id="Lebanon" label="Lebanon" />
+      <node id="Annandale" label="Annandale" />
+      <node id="High Bridge" label="High Bridge" />
+    </nodes>
+    <edges>
+      <edge source="Philadelphia" target="Pennsauken" id="0" weight="12.6" />
+      <edge source="Pennsauken" target="Cherry Hill" id="1" weight="2.4" />
+      <edge source="Cherry Hill" target="Lindenwold" id="2" weight="10.8" />
+      <edge source="Lindenwold" target="Atco" id="3" weight="19.8" />
+      <edge source="Atco" target="Hammonton" id="4" weight="10.0" />
+      <edge source="Hammonton" target="Egg Harbor City" id="5" weight="21.2" />
+      <edge source="Egg Harbor City" target="Absecon" id="6" weight="12.7" />
+      <edge source="Absecon" target="Atlantic City Rail Terminal" id="7" weight="11.1" />
+      <edge source="Hoboken" target="Secaucus Lower Lvl" id="8" weight="6.5" />
+      <edge source="Hoboken" target="New York Penn Station" id="9" weight="3.5" />
+      <edge source="Secaucus Lower Lvl" target="Rutherford" id="10" weight="9.7" />
+      <edge source="Secaucus Lower Lvl" target="Kingsland" id="11" weight="5.9" />
+      <edge source="Secaucus Lower Lvl" target="Wood Ridge" id="12" weight="6.7" />
+      <edge source="Rutherford" target="Wesmont" id="13" weight="1.5" />
+      <edge source="Wesmont" target="Garfield" id="14" weight="0.7" />
+      <edge source="Garfield" target="Plauderville" id="15" weight="5.5" />
+      <edge source="Plauderville" target="Broadway Fair Lawn" id="16" weight="1.4" />
+      <edge source="Broadway Fair Lawn" target="Radburn Fair Lawn" id="17" weight="1.8" />
+      <edge source="Radburn Fair Lawn" target="Glen Rock Boro Hall" id="18" weight="3.8" />
+      <edge source="Glen Rock Boro Hall" target="Ridgewood" id="19" weight="0.8" />
+      <edge source="Ridgewood" target="Ho-Ho-Kus" id="20" weight="2.1" />
+      <edge source="Ridgewood" target="Glen Rock Main Line" id="21" weight="2.1" />
+      <edge source="Ho-Ho-Kus" target="Waldwick" id="22" weight="1.8" />
+      <edge source="Waldwick" target="Allendale" id="23" weight="2.7" />
+      <edge source="Allendale" target="Ramsey Main St" id="24" weight="3.0" />
+      <edge source="Ramsey Main St" target="Ramsey Route 17" id="25" weight="1.0" />
+      <edge source="Ramsey Route 17" target="Mahwah" id="26" weight="3.8" />
+      <edge source="Mahwah" target="Suffern" id="27" weight="2.9" />
+      <edge source="Suffern" target="Sloatsburg" id="28" weight="6.0" />
+      <edge source="Sloatsburg" target="Tuxedo" id="29" weight="4.2" />
+      <edge source="Tuxedo" target="Harriman" id="30" weight="13.2" />
+      <edge source="Harriman" target="Salisbury Mills-Cornwall" id="31" weight="13.8" />
+      <edge source="Salisbury Mills-Cornwall" target="Campbell Hall" id="32" weight="13.0" />
+      <edge source="Campbell Hall" target="Middletown NY" id="33" weight="11.0" />
+      <edge source="Middletown NY" target="Otisville" id="34" weight="12.5" />
+      <edge source="Otisville" target="Port Jervis" id="35" weight="17.0" />
+      <edge source="New York Penn Station" target="Newark Broad Street" id="36" weight="14.9" />
+      <edge source="New York Penn Station" target="Secaucus Upper Lvl" id="37" weight="6.9" />
+      <edge source="Newark Broad Street" target="East Orange" id="38" weight="4.2" />
+      <edge source="Newark Broad Street" target="Secaucus Upper Lvl" id="39" weight="10.7" />
+      <edge source="Newark Broad Street" target="Watsessing Avenue" id="40" weight="4.8" />
+      <edge source="East Orange" target="Brick Church" id="41" weight="0.6" />
+      <edge source="Brick Church" target="Orange" id="42" weight="1.4" />
+      <edge source="Orange" target="Highland Avenue" id="43" weight="0.9" />
+      <edge source="Highland Avenue" target="Mountain Station" id="44" weight="1.9" />
+      <edge source="Mountain Station" target="South Orange" id="45" weight="1.1" />
+      <edge source="South Orange" target="Maplewood" id="46" weight="2.4" />
+      <edge source="Maplewood" target="Millburn" id="47" weight="1.7" />
+      <edge source="Millburn" target="Short Hills" id="48" weight="3.5" />
+      <edge source="Short Hills" target="Summit" id="49" weight="5.1" />
+      <edge source="Summit" target="New Providence" id="50" weight="3.6" />
+      <edge source="Summit" target="Chatham" id="51" weight="3.3" />
+      <edge source="New Providence" target="Murray Hill" id="52" weight="0.1" />
+      <edge source="Murray Hill" target="Berkeley Heights" id="53" weight="3.5" />
+      <edge source="Berkeley Heights" target="Gillette" id="54" weight="2.9" />
+      <edge source="Gillette" target="Stirling" id="55" weight="1.6" />
+      <edge source="Stirling" target="Millington" id="56" weight="2.3" />
+      <edge source="Millington" target="Lyons" id="57" weight="3.3" />
+      <edge source="Lyons" target="Basking Ridge" id="58" weight="3.2" />
+      <edge source="Basking Ridge" target="Bernardsville" id="59" weight="2.3" />
+      <edge source="Bernardsville" target="Far Hills" id="60" weight="6.4" />
+      <edge source="Far Hills" target="Peapack" id="61" weight="3.7" />
+      <edge source="Peapack" target="Gladstone" id="62" weight="0.7" />
+      <edge source="Kingsland" target="Lyndhurst" id="63" weight="0.5" />
+      <edge source="Lyndhurst" target="Delawanna" id="64" weight="3.9" />
+      <edge source="Delawanna" target="Passaic" id="65" weight="1.2" />
+      <edge source="Passaic" target="Clifton" id="66" weight="3.1" />
+      <edge source="Clifton" target="Paterson" id="67" weight="4.1" />
+      <edge source="Paterson" target="Hawthorne" id="68" weight="4.3" />
+      <edge source="Hawthorne" target="Glen Rock Main Line" id="69" weight="2.3" />
+      <edge source="Secaucus Upper Lvl" target="Newark Penn Station" id="70" weight="10.9" />
+      <edge source="Watsessing Avenue" target="Bloomfield" id="71" weight="1.4" />
+      <edge source="Bloomfield" target="Glen Ridge" id="72" weight="1.4" />
+      <edge source="Glen Ridge" target="Bay Street" id="73" weight="1.1" />
+      <edge source="Bay Street" target="Walnut Street" id="74" weight="0.3" />
+      <edge source="Walnut Street" target="Watchung Avenue" id="75" weight="1.2" />
+      <edge source="Watchung Avenue" target="Upper Montclair" id="76" weight="1.5" />
+      <edge source="Upper Montclair" target="Mountain Avenue" id="77" weight="0.9" />
+      <edge source="Mountain Avenue" target="Montclair Heights" id="78" weight="2.5" />
+      <edge source="Montclair Heights" target="Little Falls" id="79" weight="3.6" />
+      <edge source="Little Falls" target="Wayne-Route 23" id="80" weight="4.6" />
+      <edge source="Wayne-Route 23" target="Mountain View" id="81" weight="2.1" />
+      <edge source="Mountain View" target="Lincoln Park" id="82" weight="3.6" />
+      <edge source="Lincoln Park" target="Towaco" id="83" weight="3.5" />
+      <edge source="Towaco" target="Boonton" id="84" weight="5.6" />
+      <edge source="Boonton" target="Mountain Lakes" id="85" weight="3.1" />
+      <edge source="Mountain Lakes" target="Denville" id="86" weight="3.4" />
+      <edge source="Denville" target="Dover" id="87" weight="7.0" />
+      <edge source="Denville" target="Mount Tabor" id="88" weight="2.1" />
+      <edge source="Dover" target="Mount Arlington" id="89" weight="6.6" />
+      <edge source="Dover" target="Lake Hopatcong" id="90" weight="9.2" />
+      <edge source="Mount Arlington" target="Lake Hopatcong" id="91" weight="2.8" />
+      <edge source="Lake Hopatcong" target="Netcong" id="92" weight="4.2" />
+      <edge source="Netcong" target="Mount Olive" id="93" weight="2.8" />
+      <edge source="Mount Olive" target="Hackettstown" id="94" weight="9.2" />
+      <edge source="Chatham" target="Madison" id="95" weight="3.5" />
+      <edge source="Madison" target="Convent Station" id="96" weight="2.9" />
+      <edge source="Convent Station" target="Morristown" id="97" weight="3.8" />
+      <edge source="Morristown" target="Morris Plains" id="98" weight="4.4" />
+      <edge source="Morris Plains" target="Mount Tabor" id="99" weight="4.1" />
+      <edge source="Newark Penn Station" target="Newark Airport" id="100" weight="4.0" />
+      <edge source="Newark Penn Station" target="Union" id="101" weight="9.8" />
+      <edge source="Newark Airport" target="North Elizabeth" id="102" weight="3.0" />
+      <edge source="North Elizabeth" target="Elizabeth" id="103" weight="1.9" />
+      <edge source="Elizabeth" target="Linden" id="104" weight="5.1" />
+      <edge source="Linden" target="Rahway" id="105" weight="3.1" />
+      <edge source="Rahway" target="Avenel" id="106" weight="2.9" />
+      <edge source="Rahway" target="Metropark" id="107" weight="6.3" />
+      <edge source="Avenel" target="Woodbridge" id="108" weight="2.9" />
+      <edge source="Woodbridge" target="Perth Amboy" id="109" weight="5.7" />
+      <edge source="Perth Amboy" target="South Amboy" id="110" weight="2.8" />
+      <edge source="South Amboy" target="Aberdeen-Matawan" id="111" weight="9.5" />
+      <edge source="Aberdeen-Matawan" target="Allenhurst" id="112" weight="27.0" />
+      <edge source="Allenhurst" target="Asbury Park" id="113" weight="2.3" />
+      <edge source="Asbury Park" target="Red Bank" id="114" weight="15.2" />
+      <edge source="Red Bank" target="Little Silver" id="115" weight="2.4" />
+      <edge source="Little Silver" target="Long Branch" id="116" weight="5.7" />
+      <edge source="Long Branch" target="Manasquan" id="117" weight="20.5" />
+      <edge source="Manasquan" target="Point Pleasant Beach" id="118" weight="3.7" />
+      <edge source="Point Pleasant Beach" target="Bay Head" id="119" weight="1.8" />
+      <edge source="Metropark" target="Metuchen" id="120" weight="4.0" />
+      <edge source="Metuchen" target="Edison" id="121" weight="5.0" />
+      <edge source="Edison" target="New Brunswick" id="122" weight="4.9" />
+      <edge source="New Brunswick" target="Jersey Avenue" id="123" weight="1.0" />
+      <edge source="Jersey Avenue" target="Princeton Junction" id="124" weight="23.1" />
+      <edge source="Princeton Junction" target="Hamilton" id="125" weight="10.1" />
+      <edge source="Princeton Junction" target="Princeton" id="126" weight="4.0" />
+      <edge source="Hamilton" target="Trenton" id="127" weight="5.6" />
+      <edge source="Wood Ridge" target="Teterboro" id="128" weight="2.9" />
+      <edge source="Teterboro" target="Essex Street" id="129" weight="4.3" />
+      <edge source="Essex Street" target="Anderson Street" id="130" weight="1.0" />
+      <edge source="Anderson Street" target="New Bridge Landing" id="131" weight="3.1" />
+      <edge source="New Bridge Landing" target="River Edge" id="132" weight="1.5" />
+      <edge source="River Edge" target="Oradell" id="133" weight="3.0" />
+      <edge source="Oradell" target="Emerson" id="134" weight="2.6" />
+      <edge source="Emerson" target="Westwood" id="135" weight="1.8" />
+      <edge source="Westwood" target="Hillsdale" id="136" weight="2.4" />
+      <edge source="Hillsdale" target="Woodcliff Lake" id="137" weight="1.3" />
+      <edge source="Woodcliff Lake" target="Park Ridge" id="138" weight="1.2" />
+      <edge source="Park Ridge" target="Montvale" id="139" weight="1.9" />
+      <edge source="Montvale" target="Pearl River" id="140" weight="1.3" />
+      <edge source="Pearl River" target="Nanuet" id="141" weight="3.4" />
+      <edge source="Nanuet" target="Spring Valley" id="142" weight="3.9" />
+      <edge source="Union" target="Roselle Park" id="143" weight="3.9" />
+      <edge source="Roselle Park" target="Cranford" id="144" weight="3.3" />
+      <edge source="Cranford" target="Garwood" id="145" weight="1.7" />
+      <edge source="Garwood" target="Westfield" id="146" weight="2.0" />
+      <edge source="Westfield" target="Fanwood" id="147" weight="3.6" />
+      <edge source="Fanwood" target="Netherwood" id="148" weight="1.5" />
+      <edge source="Netherwood" target="Plainfield" id="149" weight="2.1" />
+      <edge source="Plainfield" target="Dunellen" id="150" weight="5.7" />
+      <edge source="Dunellen" target="Bound Brook" id="151" weight="6.5" />
+      <edge source="Bound Brook" target="Bridgewater" id="152" weight="2.7" />
+      <edge source="Bridgewater" target="Somerville" id="153" weight="4.0" />
+      <edge source="Somerville" target="Raritan" id="154" weight="2.2" />
+      <edge source="Raritan" target="North Branch" id="155" weight="6.5" />
+      <edge source="North Branch" target="White House" id="156" weight="6.3" />
+      <edge source="White House" target="Lebanon" id="157" weight="6.5" />
+      <edge source="Lebanon" target="Annandale" id="158" weight="4.0" />
+      <edge source="Annandale" target="High Bridge" id="159" weight="2.6" />
+    </edges>
+  </graph>
+</gexf>

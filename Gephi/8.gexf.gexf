@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Secaucus Upper Lvl" label="Secaucus Upper Lvl" />
+      <node id="Newark Penn Station" label="Newark Penn Station" />
+      <node id="Newark Airport" label="Newark Airport" />
+      <node id="North Elizabeth" label="North Elizabeth" />
+      <node id="Elizabeth" label="Elizabeth" />
+      <node id="Linden" label="Linden" />
+      <node id="Rahway" label="Rahway" />
+      <node id="Metropark" label="Metropark" />
+      <node id="Metuchen" label="Metuchen" />
+      <node id="Edison" label="Edison" />
+      <node id="New Brunswick" label="New Brunswick" />
+      <node id="Jersey Avenue" label="Jersey Avenue" />
+      <node id="Princeton Junction" label="Princeton Junction" />
+      <node id="Hamilton" label="Hamilton" />
+      <node id="Trenton" label="Trenton" />
+    </nodes>
+    <edges>
+      <edge source="New York Penn Station" target="Secaucus Upper Lvl" id="0" weight="6.9" />
+      <edge source="Secaucus Upper Lvl" target="Newark Penn Station" id="1" weight="10.9" />
+      <edge source="Newark Penn Station" target="Newark Airport" id="2" weight="4.0" />
+      <edge source="Newark Airport" target="North Elizabeth" id="3" weight="3.0" />
+      <edge source="North Elizabeth" target="Elizabeth" id="4" weight="1.9" />
+      <edge source="Elizabeth" target="Linden" id="5" weight="5.1" />
+      <edge source="Linden" target="Rahway" id="6" weight="3.1" />
+      <edge source="Rahway" target="Metropark" id="7" weight="6.3" />
+      <edge source="Metropark" target="Metuchen" id="8" weight="4.0" />
+      <edge source="Metuchen" target="Edison" id="9" weight="5.0" />
+      <edge source="Edison" target="New Brunswick" id="10" weight="4.9" />
+      <edge source="New Brunswick" target="Jersey Avenue" id="11" weight="1.0" />
+      <edge source="Jersey Avenue" target="Princeton Junction" id="12" weight="23.1" />
+      <edge source="Princeton Junction" target="Hamilton" id="13" weight="10.1" />
+      <edge source="Hamilton" target="Trenton" id="14" weight="5.6" />
+    </edges>
+  </graph>
+</gexf>

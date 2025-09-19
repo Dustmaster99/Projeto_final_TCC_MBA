@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Secaucus Upper Lvl" label="Secaucus Upper Lvl" />
+      <node id="Newark Penn Station" label="Newark Penn Station" />
+      <node id="Newark Airport" label="Newark Airport" />
+      <node id="North Elizabeth" label="North Elizabeth" />
+      <node id="Elizabeth" label="Elizabeth" />
+      <node id="Linden" label="Linden" />
+      <node id="Rahway" label="Rahway" />
+      <node id="Avenel" label="Avenel" />
+      <node id="Woodbridge" label="Woodbridge" />
+      <node id="Perth Amboy" label="Perth Amboy" />
+      <node id="South Amboy" label="South Amboy" />
+      <node id="Aberdeen-Matawan" label="Aberdeen-Matawan" />
+      <node id="Allenhurst" label="Allenhurst" />
+      <node id="Asbury Park" label="Asbury Park" />
+      <node id="Red Bank" label="Red Bank" />
+      <node id="Little Silver" label="Little Silver" />
+      <node id="Long Branch" label="Long Branch" />
+      <node id="Manasquan" label="Manasquan" />
+      <node id="Point Pleasant Beach" label="Point Pleasant Beach" />
+      <node id="Bay Head" label="Bay Head" />
+    </nodes>
+    <edges>
+      <edge source="New York Penn Station" target="Secaucus Upper Lvl" id="0" weight="6.9" />
+      <edge source="Secaucus Upper Lvl" target="Newark Penn Station" id="1" weight="10.9" />
+      <edge source="Newark Penn Station" target="Newark Airport" id="2" weight="4.0" />
+      <edge source="Newark Airport" target="North Elizabeth" id="3" weight="3.0" />
+      <edge source="North Elizabeth" target="Elizabeth" id="4" weight="1.9" />
+      <edge source="Elizabeth" target="Linden" id="5" weight="5.1" />
+      <edge source="Linden" target="Rahway" id="6" weight="3.1" />
+      <edge source="Rahway" target="Avenel" id="7" weight="2.9" />
+      <edge source="Avenel" target="Woodbridge" id="8" weight="2.9" />
+      <edge source="Woodbridge" target="Perth Amboy" id="9" weight="5.7" />
+      <edge source="Perth Amboy" target="South Amboy" id="10" weight="2.8" />
+      <edge source="South Amboy" target="Aberdeen-Matawan" id="11" weight="9.5" />
+      <edge source="Aberdeen-Matawan" target="Allenhurst" id="12" weight="27.0" />
+      <edge source="Allenhurst" target="Asbury Park" id="13" weight="2.3" />
+      <edge source="Asbury Park" target="Red Bank" id="14" weight="15.2" />
+      <edge source="Red Bank" target="Little Silver" id="15" weight="2.4" />
+      <edge source="Little Silver" target="Long Branch" id="16" weight="5.7" />
+      <edge source="Long Branch" target="Manasquan" id="17" weight="20.5" />
+      <edge source="Manasquan" target="Point Pleasant Beach" id="18" weight="3.7" />
+      <edge source="Point Pleasant Beach" target="Bay Head" id="19" weight="1.8" />
+    </edges>
+  </graph>
+</gexf>

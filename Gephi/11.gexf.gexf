@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Secaucus Upper Lvl" label="Secaucus Upper Lvl" />
+      <node id="Newark Penn Station" label="Newark Penn Station" />
+      <node id="Union" label="Union" />
+      <node id="Roselle Park" label="Roselle Park" />
+      <node id="Cranford" label="Cranford" />
+      <node id="Garwood" label="Garwood" />
+      <node id="Westfield" label="Westfield" />
+      <node id="Fanwood" label="Fanwood" />
+      <node id="Netherwood" label="Netherwood" />
+      <node id="Plainfield" label="Plainfield" />
+      <node id="Dunellen" label="Dunellen" />
+      <node id="Bound Brook" label="Bound Brook" />
+      <node id="Bridgewater" label="Bridgewater" />
+      <node id="Somerville" label="Somerville" />
+      <node id="Raritan" label="Raritan" />
+      <node id="North Branch" label="North Branch" />
+      <node id="White House" label="White House" />
+      <node id="Lebanon" label="Lebanon" />
+      <node id="Annandale" label="Annandale" />
+      <node id="High Bridge" label="High Bridge" />
+    </nodes>
+    <edges>
+      <edge source="New York Penn Station" target="Secaucus Upper Lvl" id="0" weight="6.9" />
+      <edge source="Secaucus Upper Lvl" target="Newark Penn Station" id="1" weight="10.9" />
+      <edge source="Newark Penn Station" target="Union" id="2" weight="9.8" />
+      <edge source="Union" target="Roselle Park" id="3" weight="3.9" />
+      <edge source="Roselle Park" target="Cranford" id="4" weight="3.3" />
+      <edge source="Cranford" target="Garwood" id="5" weight="1.7" />
+      <edge source="Garwood" target="Westfield" id="6" weight="2.0" />
+      <edge source="Westfield" target="Fanwood" id="7" weight="3.6" />
+      <edge source="Fanwood" target="Netherwood" id="8" weight="1.5" />
+      <edge source="Netherwood" target="Plainfield" id="9" weight="2.1" />
+      <edge source="Plainfield" target="Dunellen" id="10" weight="5.7" />
+      <edge source="Dunellen" target="Bound Brook" id="11" weight="6.5" />
+      <edge source="Bound Brook" target="Bridgewater" id="12" weight="2.7" />
+      <edge source="Bridgewater" target="Somerville" id="13" weight="4.0" />
+      <edge source="Somerville" target="Raritan" id="14" weight="2.2" />
+      <edge source="Raritan" target="North Branch" id="15" weight="6.5" />
+      <edge source="North Branch" target="White House" id="16" weight="6.3" />
+      <edge source="White House" target="Lebanon" id="17" weight="6.5" />
+      <edge source="Lebanon" target="Annandale" id="18" weight="4.0" />
+      <edge source="Annandale" target="High Bridge" id="19" weight="2.6" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Philadelphia" label="Philadelphia" />
+      <node id="Pennsauken" label="Pennsauken" />
+      <node id="Cherry Hill" label="Cherry Hill" />
+      <node id="Lindenwold" label="Lindenwold" />
+      <node id="Atco" label="Atco" />
+      <node id="Hammonton" label="Hammonton" />
+      <node id="Egg Harbor City" label="Egg Harbor City" />
+      <node id="Absecon" label="Absecon" />
+      <node id="Atlantic City Rail Terminal" label="Atlantic City Rail Terminal" />
+    </nodes>
+    <edges>
+      <edge source="Philadelphia" target="Pennsauken" id="0" weight="12.6" />
+      <edge source="Pennsauken" target="Cherry Hill" id="1" weight="2.4" />
+      <edge source="Cherry Hill" target="Lindenwold" id="2" weight="10.8" />
+      <edge source="Lindenwold" target="Atco" id="3" weight="19.8" />
+      <edge source="Atco" target="Hammonton" id="4" weight="10.0" />
+      <edge source="Hammonton" target="Egg Harbor City" id="5" weight="21.2" />
+      <edge source="Egg Harbor City" target="Absecon" id="6" weight="12.7" />
+      <edge source="Absecon" target="Atlantic City Rail Terminal" id="7" weight="11.1" />
+    </edges>
+  </graph>
+</gexf>

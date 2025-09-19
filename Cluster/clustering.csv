@@ -1,0 +1,166 @@
+to,cluster_Hierarch,cluster_kmeans,cluster_DBscan
+Lindenwold,6,3,0
+Cherry Hill,6,3,0
+Hammonton,10,3,1
+Pennsauken,6,3,0
+Absecon,5,3,1
+Egg Harbor City,5,3,1
+Atlantic City Rail Terminal,5,3,1
+Philadelphia,6,3,0
+Atco,10,3,0
+Allendale,9,7,2
+Broadway Fair Lawn,4,7,2
+Campbell Hall,2,4,2
+Garfield,4,5,2
+Glen Rock Boro Hall,4,7,2
+Harriman,2,4,2
+Hoboken,4,5,2
+Ho-Ho-Kus,9,7,2
+Mahwah,9,7,2
+Middletown NY,2,4,2
+Otisville,8,4,2
+Plauderville,4,7,2
+Port Jervis,8,4,2
+Radburn Fair Lawn,4,7,2
+Ramsey Main St,9,7,2
+Ramsey Route 17,9,7,2
+Ridgewood,4,7,2
+Rutherford,4,5,2
+Salisbury Mills-Cornwall,2,4,2
+Secaucus Lower Lvl,4,5,2
+Sloatsburg,9,7,2
+Suffern,9,7,2
+Tuxedo,9,7,2
+Waldwick,9,7,2
+Wesmont,4,5,2
+Basking Ridge,1,2,2
+Berkeley Heights,0,6,2
+Bernardsville,1,2,2
+Brick Church,0,5,2
+East Orange,0,5,2
+Far Hills,1,2,2
+Gillette,0,6,2
+Gladstone,1,2,2
+Highland Avenue,0,6,2
+Lyons,1,2,2
+Maplewood,0,6,2
+Millburn,0,6,2
+Millington,0,2,2
+Mountain Station,0,6,2
+Murray Hill,0,6,2
+New Providence,0,6,2
+New York Penn Station,4,5,2
+Newark Broad Street,0,5,2
+Orange,0,5,2
+Peapack,1,2,2
+Short Hills,0,6,2
+South Orange,0,6,2
+Stirling,0,6,2
+Summit,0,6,2
+Clifton,4,5,2
+Delawanna,4,5,2
+Glen Rock Main Line,4,7,2
+Hawthorne,4,7,2
+Kingsland,4,5,2
+Lyndhurst,4,5,2
+Passaic,4,5,2
+Paterson,4,7,2
+Bay Street,0,5,2
+Bloomfield,0,5,2
+Boonton,0,2,2
+Denville,0,2,2
+Dover,1,2,2
+Glen Ridge,0,5,2
+Hackettstown,1,2,2
+Lake Hopatcong,1,2,2
+Lincoln Park,0,7,2
+Little Falls,0,5,2
+Montclair Heights,0,5,2
+Montclair State U,0,5,2
+Mount Arlington,1,2,2
+Mount Olive,1,2,2
+Mountain Avenue,0,5,2
+Mountain Lakes,0,2,2
+Mountain View,0,7,2
+Netcong,1,2,2
+Secaucus Upper Lvl,4,5,2
+Towaco,0,7,2
+Upper Montclair,0,5,2
+Walnut Street,0,5,2
+Watchung Avenue,0,5,2
+Watsessing Avenue,0,5,2
+Wayne-Route 23,0,7,2
+Chatham,0,6,2
+Convent Station,0,6,2
+Madison,0,6,2
+Morris Plains,0,2,2
+Morristown,0,2,2
+Mount Tabor,0,2,2
+Aberdeen-Matawan,3,1,2
+Allenhurst,3,1,2
+Asbury Park,3,1,2
+Avenel,0,6,2
+Bay Head,3,1,2
+Belmar,3,1,2
+Bradley Beach,3,1,2
+Elberon,3,1,2
+Elizabeth,0,6,2
+Hazlet,3,1,2
+Linden,0,6,2
+Little Silver,3,1,2
+Long Branch,3,1,2
+Manasquan,3,1,2
+Middletown NJ,3,1,2
+Newark Airport,0,5,2
+Newark Penn Station,0,5,2
+North Elizabeth,0,6,2
+Perth Amboy,0,6,2
+Point Pleasant Beach,3,1,2
+Rahway,0,6,2
+Red Bank,3,1,2
+South Amboy,0,6,2
+Spring Lake,3,1,2
+Woodbridge,0,6,2
+Edison,0,6,2
+Hamilton,7,0,3
+Metropark,0,6,2
+Trenton,7,0,3
+New Brunswick,0,0,2
+Jersey Avenue,0,0,2
+Metuchen,0,6,2
+Princeton Junction,7,0,3
+Anderson Street,4,5,2
+Emerson,4,7,2
+Essex Street,4,5,2
+Hillsdale,9,7,2
+Montvale,9,7,2
+Nanuet,9,7,2
+New Bridge Landing,4,7,2
+Oradell,4,7,2
+Park Ridge,9,7,2
+Pearl River,9,7,2
+River Edge,4,7,2
+Spring Valley,9,7,2
+Teterboro,4,5,2
+Westwood,4,7,2
+Wood Ridge,4,5,2
+Woodcliff Lake,9,7,2
+Princeton,7,0,3
+Annandale,1,0,2
+Bound Brook,1,0,2
+Bridgewater,1,0,2
+Cranford,0,6,2
+Dunellen,0,6,2
+Fanwood,0,6,2
+Garwood,0,6,2
+High Bridge,1,0,2
+Lebanon,1,0,2
+Netherwood,0,6,2
+North Branch,1,0,2
+Plainfield,0,6,2
+Raritan,1,0,2
+Roselle Park,0,6,2
+Somerville,1,0,2
+Union,0,6,2
+Westfield,0,6,2
+White House,1,0,2

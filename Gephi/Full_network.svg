@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3087.6135"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1630.041870 -1534.744263 3087.613525 3024.734375"
+     height="3024.7344" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Philadelphia id_Pennsauken"
+              d="M -1556.193848,280.711365 A 111.227057,111.227057 0,0 1,-1439.323730,285.011902"
+              stroke="#000000" stroke-width="12.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pennsauken id_Cherry_Hill"
+              d="M -1421.333252,292.025421 A 122.642423,122.642423 0,0 1,-1322.291992,377.301422"
+              stroke="#000000" stroke-width="2.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Cherry_Hill id_Lindenwold"
+              d="M -1309.789673,386.060547 A 154.729430,154.729430 0,0 1,-1162.860107,470.160583"
+              stroke="#000000" stroke-width="10.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lindenwold id_Atco"
+              d="M -1148.825684,477.110992 A 175.312569,175.312569 0,0 1,-970.375793,553.314148"
+              stroke="#000000" stroke-width="19.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Atco id_Hammonton"
+              d="M -955.586975,564.816589 A 168.087368,168.087368 0,0 1,-842.894165,711.979065"
+              stroke="#000000" stroke-width="10.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hammonton id_Egg_Harbor_City"
+              d="M -832.775879,724.318115 A 162.320817,162.320817 0,0 1,-714.966309,858.316772"
+              stroke="#000000" stroke-width="21.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Egg_Harbor_City id_Absecon"
+              d="M -704.597412,871.968811 A 150.143261,150.143261 0,0 1,-614.782776,1008.927246"
+              stroke="#000000" stroke-width="12.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Absecon id_Atlantic_City_Rail_Terminal"
+              d="M -606.210876,1023.541443 A 112.839631,112.839631 0,0 1,-550.097778,1128.358032"
+              stroke="#000000" stroke-width="11.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hoboken id_Secaucus_Lower_Lvl"
+              d="M -548.630859,-588.746582 A 164.930693,164.930693 0,0 1,-576.857239,-768.099426"
+              stroke="#000000" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Secaucus_Lower_Lvl id_Rutherford"
+              d="M -581.558289,-781.187195 A 137.534924,137.534924 0,0 1,-657.920044,-908.684937"
+              stroke="#000000" stroke-width="9.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Secaucus_Lower_Lvl id_Kingsland"
+              d="M -565.749451,-784.501465 A 141.816045,141.816045 0,0 1,-416.000977,-819.421692"
+              stroke="#000000" stroke-width="5.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Secaucus_Lower_Lvl id_Wood_Ridge"
+              d="M -582.442566,-777.235352 A 138.950660,138.950660 0,0 1,-704.455261,-865.035156"
+              stroke="#000000" stroke-width="6.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Rutherford id_Wesmont"
+              d="M -665.876648,-923.712219 A 113.120570,113.120570 0,0 1,-716.890503,-1031.477539"
+              stroke="#000000" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Wesmont id_Garfield"
+              d="M -717.518372,-1051.110840 A 91.274957,91.274957 0,0 1,-684.133728,-1137.801392"
+              stroke="#000000" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Garfield id_Plauderville"
+              d="M -680.408569,-1152.524536 A 120.450269,120.450269 0,0 1,-662.372375,-1279.303955"
+              stroke="#000000" stroke-width="5.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Plauderville id_Broadway_Fair_Lawn"
+              d="M -652.219849,-1296.075928 A 96.744553,96.744553 0,0 1,-572.039063,-1354.984497"
+              stroke="#000000" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Broadway_Fair_Lawn id_Radburn_Fair_Lawn"
+              d="M -552.954285,-1359.563110 A 118.807699,118.807699 0,0 1,-428.743347,-1337.943604"
+              stroke="#000000" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Radburn_Fair_Lawn id_Glen_Rock_Boro_Hall"
+              d="M -411.592987,-1331.188110 A 134.818949,134.818949 0,0 1,-290.264801,-1251.152344"
+              stroke="#000000" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Glen_Rock_Boro_Hall id_Ridgewood"
+              d="M -281.598358,-1250.561768 A 130.335014,130.335014 0,0 1,-155.476547,-1311.226929"
+              stroke="#000000" stroke-width="0.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ridgewood id_Ho-Ho-Kus"
+              d="M -146.613831,-1319.613770 A 60.220493,60.220493 0,0 1,-122.115509,-1369.217407"
+              stroke="#000000" stroke-width="2.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ridgewood id_Glen_Rock_Main_Line"
+              d="M -142.010284,-1318.999146 A 134.747398,134.747398 0,0 1,-21.901186,-1400.700073"
+              stroke="#000000" stroke-width="2.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ho-Ho-Kus id_Waldwick"
+              d="M -107.783699,-1382.593872 A 70.577867,70.577867 0,0 1,-44.682049,-1407.620850"
+              stroke="#000000" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Waldwick id_Allendale"
+              d="M -25.813675,-1409.920288 A 97.298529,97.298529 0,0 1,73.155357,-1394.502808"
+              stroke="#000000" stroke-width="2.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Allendale id_Ramsey_Main_St"
+              d="M 90.358299,-1386.062134 A 126.872617,126.872617 0,0 1,187.866943,-1291.563110"
+              stroke="#000000" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ramsey_Main_St id_Ramsey_Route_17"
+              d="M 197.899170,-1275.857910 A 126.802999,126.802999 0,0 1,242.622894,-1147.736572"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ramsey_Route_17 id_Mahwah"
+              d="M 247.350708,-1131.343750 A 140.047386,140.047386 0,0 1,280.738098,-983.426392"
+              stroke="#000000" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mahwah id_Suffern"
+              d="M 286.871674,-975.596069 A 111.935293,111.935293 0,0 1,392.696655,-923.842285"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Suffern id_Sloatsburg"
+              d="M 407.229279,-917.988037 A 105.908021,105.908021 0,0 1,512.551636,-884.424622"
+              stroke="#000000" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sloatsburg id_Tuxedo"
+              d="M 523.239563,-885.487366 A 117.408023,117.408023 0,0 1,632.279968,-945.352478"
+              stroke="#000000" stroke-width="4.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Tuxedo id_Harriman"
+              d="M 643.777771,-954.245667 A 114.894837,114.894837 0,0 1,726.971069,-1042.612793"
+              stroke="#000000" stroke-width="13.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Harriman id_Salisbury_Mills-Cornwall"
+              d="M 730.425903,-1052.506714 A 77.257662,77.257662 0,0 1,722.495422,-1128.057739"
+              stroke="#000000" stroke-width="13.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Salisbury_Mills-Cornwall id_Campbell_Hall"
+              d="M 720.948303,-1129.040527 A 91.178954,91.178954 0,0 1,633.008545,-1099.462402"
+              stroke="#000000" stroke-width="13.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Campbell_Hall id_Middletown_NY"
+              d="M 622.076843,-1111.991455 A 164.514230,164.514230 0,0 1,706.470642,-1272.179810"
+              stroke="#000000" stroke-width="11.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Middletown_NY id_Otisville"
+              d="M 713.808960,-1286.610474 A 130.692858,130.692858 0,0 1,774.633789,-1413.133301"
+              stroke="#000000" stroke-width="12.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Otisville id_Port_Jervis"
+              d="M 781.780212,-1427.959839 A 94.547484,94.547484 0,0 1,822.637817,-1515.764038"
+              stroke="#000000" stroke-width="17.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Penn_Station id_Newark_Broad_Street"
+              d="M -477.915619,168.003540 A 77.478749,77.478749 0,0 1,-403.421600,151.811478"
+              stroke="#000000" stroke-width="14.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_York_Penn_Station id_Secaucus_Upper_Lvl"
+              d="M -485.930237,185.078003 A 80.711508,80.711508 0,0 1,-536.409363,247.323151"
+              stroke="#000000" stroke-width="6.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Broad_Street id_East_Orange"
+              d="M -384.089355,155.812653 A 177.213522,177.213522 0,0 1,-228.822525,275.959778"
+              stroke="#000000" stroke-width="4.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Broad_Street id_Secaucus_Upper_Lvl"
+              d="M -397.991730,164.583099 A 149.260210,149.260210 0,0 1,-535.952209,250.864441"
+              stroke="#000000" stroke-width="10.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Broad_Street id_Watsessing_Avenue"
+              d="M -402.822021,150.524368 A 188.468214,188.468214 0,0 1,-493.499207,-38.722313"
+              stroke="#000000" stroke-width="4.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_East_Orange id_Brick_Church"
+              d="M -216.162933,287.815094 A 206.380798,206.380798 0,0 1,-63.571083,461.735321"
+              stroke="#000000" stroke-width="0.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Brick_Church id_Orange"
+              d="M -53.104462,474.927979 A 173.913097,173.913097 0,0 1,59.555603,630.841614"
+              stroke="#000000" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Orange id_Highland_Avenue"
+              d="M 69.277786,643.597900 A 192.923360,192.923360 0,0 1,203.573273,811.755005"
+              stroke="#000000" stroke-width="0.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Highland_Avenue id_Mountain_Station"
+              d="M 213.969040,823.560059 A 154.338436,154.338436 0,0 1,332.290192,943.985291"
+              stroke="#000000" stroke-width="1.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mountain_Station id_South_Orange"
+              d="M 343.598175,951.265808 A 171.631857,171.631857 0,0 1,521.514404,1016.838928"
+              stroke="#000000" stroke-width="1.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_South_Orange id_Maplewood"
+              d="M 533.131592,1017.031372 A 118.642434,118.642434 0,0 1,652.095642,975.883179"
+              stroke="#000000" stroke-width="2.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Maplewood id_Millburn"
+              d="M 660.645020,968.594360 A 127.475670,127.475670 0,0 1,725.465332,848.452881"
+              stroke="#000000" stroke-width="1.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Millburn id_Short_Hills"
+              d="M 726.986755,837.167236 A 130.276382,130.276382 0,0 1,695.652466,700.839050"
+              stroke="#000000" stroke-width="3.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Short_Hills id_Summit"
+              d="M 690.945129,686.137451 A 153.728784,153.728784 0,0 1,627.353882,530.537598"
+              stroke="#000000" stroke-width="5.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Summit id_New_Providence"
+              d="M 629.889526,530.779968 A 134.732406,134.732406 0,0 1,551.026794,652.749878"
+              stroke="#000000" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Summit id_Chatham"
+              d="M 625.567627,511.619110 A 171.460971,171.460971 0,0 1,663.765747,326.100708"
+              stroke="#000000" stroke-width="3.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_Providence id_Murray_Hill"
+              d="M 543.726135,666.364563 A 122.593557,122.593557 0,0 1,492.039520,786.340820"
+              stroke="#000000" stroke-width="0.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Murray_Hill id_Berkeley_Heights"
+              d="M 488.558746,800.332825 A 110.703718,110.703718 0,0 1,479.671661,916.311646"
+              stroke="#000000" stroke-width="3.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Berkeley_Heights id_Gillette"
+              d="M 481.896362,929.432617 A 50.191172,50.191172 0,0 1,501.306183,967.929871"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gillette id_Stirling"
+              d="M 499.932281,967.918884 A 95.546267,95.546267 0,0 1,549.530884,883.339478"
+              stroke="#000000" stroke-width="1.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Stirling id_Millington"
+              d="M 553.683228,870.254089 A 149.589927,149.589927 0,0 1,570.471497,708.004578"
+              stroke="#000000" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Millington id_Lyons"
+              d="M 571.518127,692.087280 A 153.356152,153.356152 0,0 1,576.385193,524.513245"
+              stroke="#000000" stroke-width="3.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lyons id_Basking_Ridge"
+              d="M 577.529419,507.734100 A 195.933957,195.933957 0,0 1,602.470154,290.340363"
+              stroke="#000000" stroke-width="3.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Basking_Ridge id_Bernardsville"
+              d="M 605.476807,273.604492 A 171.131572,171.131572 0,0 1,649.962830,89.900017"
+              stroke="#000000" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bernardsville id_Far_Hills"
+              d="M 655.405640,73.533417 A 175.909798,175.909798 0,0 1,732.199768,-105.444267"
+              stroke="#000000" stroke-width="6.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Far_Hills id_Peapack"
+              d="M 740.311890,-120.666168 A 121.705012,121.705012 0,0 1,809.277710,-230.352997"
+              stroke="#000000" stroke-width="3.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Peapack id_Gladstone"
+              d="M 819.712646,-244.233749 A 111.943444,111.943444 0,0 1,897.782471,-332.465271"
+              stroke="#000000" stroke-width="0.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kingsland id_Lyndhurst"
+              d="M -401.324921,-824.145935 A 157.436543,157.436543 0,0 1,-241.748077,-889.789001"
+              stroke="#000000" stroke-width="0.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lyndhurst id_Delawanna"
+              d="M -228.216263,-896.851929 A 146.988532,146.988532 0,0 1,-93.878479,-983.738647"
+              stroke="#000000" stroke-width="3.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Delawanna id_Passaic"
+              d="M -81.818695,-993.169250 A 150.091776,150.091776 0,0 1,37.692268,-1105.067139"
+              stroke="#000000" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Passaic id_Clifton"
+              d="M 47.118290,-1116.474365 A 133.060526,133.060526 0,0 1,123.033073,-1237.934814"
+              stroke="#000000" stroke-width="3.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Clifton id_Paterson"
+              d="M 128.899063,-1251.319458 A 126.433647,126.433647 0,0 1,164.392212,-1381.837891"
+              stroke="#000000" stroke-width="4.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paterson id_Hawthorne"
+              d="M 162.107162,-1389.513672 A 73.886919,73.886919 0,0 1,107.050499,-1435.739014"
+              stroke="#000000" stroke-width="4.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hawthorne id_Glen_Rock_Main_Line"
+              d="M 98.416405,-1437.093872 A 103.616151,103.616151 0,0 1,-2.159391,-1398.353516"
+              stroke="#000000" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Secaucus_Upper_Lvl id_Newark_Penn_Station"
+              d="M -547.198730,260.273956 A 166.230004,166.230004 0,0 1,-670.637329,395.539276"
+              stroke="#000000" stroke-width="10.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Watsessing_Avenue id_Bloomfield"
+              d="M -501.431122,-51.290291 A 153.635095,153.635095 0,0 1,-607.729431,-181.359375"
+              stroke="#000000" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bloomfield id_Glen_Ridge"
+              d="M -618.443115,-192.077271 A 144.132659,144.132659 0,0 1,-739.837158,-290.931671"
+              stroke="#000000" stroke-width="1.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Glen_Ridge id_Bay_Street"
+              d="M -749.801575,-293.621490 A 168.232542,168.232542 0,0 1,-933.216492,-265.690399"
+              stroke="#000000" stroke-width="1.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bay_Street id_Walnut_Street"
+              d="M -945.444580,-260.706665 A 142.168484,142.168484 0,0 1,-1070.183716,-170.071640"
+              stroke="#000000" stroke-width="0.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Walnut_Street id_Watchung_Avenue"
+              d="M -1078.132813,-160.083511 A 139.745198,139.745198 0,0 1,-1137.231812,-20.830202"
+              stroke="#000000" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Watchung_Avenue id_Upper_Montclair"
+              d="M -1139.943848,-7.323173 A 158.847892,158.847892 0,0 1,-1139.813477,166.924469"
+              stroke="#000000" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Upper_Montclair id_Mountain_Avenue"
+              d="M -1138.602173,182.303375 A 167.032833,167.032833 0,0 1,-1110.198608,364.186279"
+              stroke="#000000" stroke-width="0.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mountain_Avenue id_Montclair_Heights"
+              d="M -1106.519043,379.007599 A 197.863673,197.863673 0,0 1,-1035.468262,588.420837"
+              stroke="#000000" stroke-width="2.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Montclair_Heights id_Little_Falls"
+              d="M -1029.055542,601.718140 A 186.354515,186.354515 0,0 1,-916.631836,775.896301"
+              stroke="#000000" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Little_Falls id_Wayne-Route_23"
+              d="M -907.086060,786.509155 A 206.463526,206.463526 0,0 1,-727.327576,932.335815"
+              stroke="#000000" stroke-width="4.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wayne-Route_23 id_Mountain_View"
+              d="M -715.887390,937.174622 A 172.143510,172.143510 0,0 1,-526.889832,958.797119"
+              stroke="#000000" stroke-width="2.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mountain_View id_Lincoln_Park"
+              d="M -513.217102,957.615601 A 195.121261,195.121261 0,0 1,-304.032684,896.807922"
+              stroke="#000000" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lincoln_Park id_Towaco"
+              d="M -290.074219,891.172302 A 191.313189,191.313189 0,0 1,-101.408363,791.732422"
+              stroke="#000000" stroke-width="3.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Towaco id_Boonton"
+              d="M -87.526413,783.873047 A 236.741120,236.741120 0,0 1,142.168289,646.111145"
+              stroke="#000000" stroke-width="5.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boonton id_Mountain_Lakes"
+              d="M 156.543732,637.956116 A 212.176988,212.176988 0,0 1,366.355743,524.898376"
+              stroke="#000000" stroke-width="3.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mountain_Lakes id_Denville"
+              d="M 381.642670,517.713501 A 240.173788,240.173788 0,0 1,634.028992,416.399200"
+              stroke="#000000" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Denville id_Dover"
+              d="M 653.243896,415.674438 A 177.147540,177.147540 0,0 1,840.785950,473.466827"
+              stroke="#000000" stroke-width="7.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Denville id_Mount_Tabor"
+              d="M 644.445740,408.810364 A 153.308837,153.308837 0,0 1,750.019043,278.656891"
+              stroke="#000000" stroke-width="2.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dover id_Mount_Arlington"
+              d="M 856.237854,477.834717 A 104.356342,104.356342 0,0 1,961.988586,502.858307"
+              stroke="#000000" stroke-width="6.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dover id_Lake_Hopatcong"
+              d="M 856.697754,479.434784 A 149.504757,149.504757 0,0 1,1005.971619,544.937927"
+              stroke="#000000" stroke-width="9.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mount_Arlington id_Lake_Hopatcong"
+              d="M 978.439758,512.705383 A 50.487586,50.487586 0,0 1,1008.881592,543.744080"
+              stroke="#000000" stroke-width="2.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lake_Hopatcong id_Netcong"
+              d="M 1021.173828,553.623596 A 117.061089,117.061089 0,0 1,1122.406860,625.190125"
+              stroke="#000000" stroke-width="4.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Netcong id_Mount_Olive"
+              d="M 1134.147705,640.192322 A 59.489540,59.489540 0,0 1,1156.050659,690.026855"
+              stroke="#000000" stroke-width="2.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mount_Olive id_Hackettstown"
+              d="M 1164.438965,701.725952 A 81.135696,81.135696 0,0 1,1222.717651,757.481018"
+              stroke="#000000" stroke-width="9.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Chatham id_Madison"
+              d="M 669.056824,309.462067 A 146.464787,146.464787 0,0 1,732.245911,163.168121"
+              stroke="#000000" stroke-width="3.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Madison id_Convent_Station"
+              d="M 741.347717,147.927414 A 120.577057,120.577057 0,0 1,820.122070,46.773849"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Convent_Station id_Morristown"
+              d="M 837.120667,37.098515 A 64.932452,64.932452 0,0 1,897.370056,27.291037"
+              stroke="#000000" stroke-width="3.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Morristown id_Morris_Plains"
+              d="M 908.768982,40.984901 A 94.325418,94.325418 0,0 1,874.041565,131.102081"
+              stroke="#000000" stroke-width="4.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Morris_Plains id_Mount_Tabor"
+              d="M 865.428345,146.841995 A 145.823295,145.823295 0,0 1,769.159607,272.865082"
+              stroke="#000000" stroke-width="4.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Penn_Station id_Newark_Airport"
+              d="M -675.922668,406.639740 A 142.082476,142.082476 0,0 1,-698.022461,559.133301"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Penn_Station id_Union"
+              d="M -686.690735,405.473297 A 152.775542,152.775542 0,0 1,-847.143005,451.584259"
+              stroke="#000000" stroke-width="9.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newark_Airport id_North_Elizabeth"
+              d="M -699.163513,574.657288 A 147.418372,147.418372 0,0 1,-699.820923,735.160217"
+              stroke="#000000" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_North_Elizabeth id_Elizabeth"
+              d="M -697.652954,749.432129 A 123.840429,123.840429 0,0 1,-657.084656,875.187500"
+              stroke="#000000" stroke-width="1.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Elizabeth id_Linden"
+              d="M -649.955139,884.891663 A 120.927882,120.927882 0,0 1,-544.864563,959.066467"
+              stroke="#000000" stroke-width="5.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Linden id_Rahway"
+              d="M -532.944214,963.104126 A 131.363889,131.363889 0,0 1,-391.876343,969.011047"
+              stroke="#000000" stroke-width="3.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rahway id_Avenel"
+              d="M -393.795380,973.604980 A 155.312011,155.312011 0,0 1,-517.549316,857.055664"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rahway id_Metropark"
+              d="M -374.452148,971.761597 A 154.572023,154.572023 0,0 1,-211.791992,1018.007996"
+              stroke="#000000" stroke-width="6.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Avenel id_Woodbridge"
+              d="M -529.149109,844.373108 A 138.133616,138.133616 0,0 1,-621.921265,727.348694"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Woodbridge id_Perth_Amboy"
+              d="M -631.901855,713.824341 A 180.459143,180.459143 0,0 1,-743.749756,547.752197"
+              stroke="#000000" stroke-width="5.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Perth_Amboy id_South_Amboy"
+              d="M -752.145203,532.696350 A 146.439178,146.439178 0,0 1,-818.719910,387.945618"
+              stroke="#000000" stroke-width="2.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_South_Amboy id_Aberdeen-Matawan"
+              d="M -825.196289,372.452332 A 157.565416,157.565416 0,0 1,-885.775024,210.719498"
+              stroke="#000000" stroke-width="9.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Aberdeen-Matawan id_Allenhurst"
+              d="M -890.736206,194.388245 A 118.435016,118.435016 0,0 1,-920.837646,72.418083"
+              stroke="#000000" stroke-width="27.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Allenhurst id_Asbury_Park"
+              d="M -923.079468,54.880882 A 127.351044,127.351044 0,0 1,-924.356995,-81.475601"
+              stroke="#000000" stroke-width="2.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Asbury_Park id_Red_Bank"
+              d="M -920.493591,-99.605225 A 97.975905,97.975905 0,0 1,-879.548889,-191.911224"
+              stroke="#000000" stroke-width="15.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Red_Bank id_Little_Silver"
+              d="M -869.197510,-207.051346 A 104.054046,104.054046 0,0 1,-792.651245,-283.673920"
+              stroke="#000000" stroke-width="2.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Little_Silver id_Long_Branch"
+              d="M -792.825012,-285.191589 A 151.952229,151.952229 0,0 1,-932.271851,-375.170105"
+              stroke="#000000" stroke-width="5.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Long_Branch id_Manasquan"
+              d="M -945.671814,-381.714325 A 148.230267,148.230267 0,0 1,-1098.189087,-434.766174"
+              stroke="#000000" stroke-width="20.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Manasquan id_Point_Pleasant_Beach"
+              d="M -1113.066284,-438.542175 A 116.528468,116.528468 0,0 1,-1234.955811,-457.362366"
+              stroke="#000000" stroke-width="3.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Point_Pleasant_Beach id_Bay_Head"
+              d="M -1250.281128,-458.252197 A 84.688164,84.688164 0,0 1,-1335.105469,-453.722412"
+              stroke="#000000" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Metropark id_Metuchen"
+              d="M -197.199524,1020.165710 A 170.148194,170.148194 0,0 1,-9.403334,1023.839050"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Metuchen id_Edison"
+              d="M 5.298575,1022.285767 A 152.833869,152.833869 0,0 1,167.785934,983.653931"
+              stroke="#000000" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Edison id_New_Brunswick"
+              d="M 183.053360,979.316956 A 168.537807,168.537807 0,0 1,359.682617,921.355042"
+              stroke="#000000" stroke-width="4.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_Brunswick id_Jersey_Avenue"
+              d="M 379.182556,925.399841 A 187.970218,187.970218 0,0 1,535.222229,1064.818237"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jersey_Avenue id_Princeton_Junction"
+              d="M 547.371277,1075.821899 A 167.076778,167.076778 0,0 1,683.426514,1199.904907"
+              stroke="#000000" stroke-width="23.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Princeton_Junction id_Hamilton"
+              d="M 694.824280,1213.500366 A 149.584942,149.584942 0,0 1,782.499329,1351.042603"
+              stroke="#000000" stroke-width="10.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Princeton_Junction id_Princeton"
+              d="M 680.146851,1201.278198 A 102.984361,102.984361 0,0 1,682.249817,1094.281372"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hamilton id_Trenton"
+              d="M 791.331482,1364.814331 A 114.959674,114.959674 0,0 1,858.199219,1466.192627"
+              stroke="#000000" stroke-width="5.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Wood_Ridge id_Teterboro"
+              d="M -716.099487,-880.021362 A 109.921667,109.921667 0,0 1,-759.278931,-987.013550"
+              stroke="#000000" stroke-width="2.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Teterboro id_Essex_Street"
+              d="M -756.143372,-1006.733643 A 103.509950,103.509950 0,0 1,-687.111877,-1089.337402"
+              stroke="#000000" stroke-width="4.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Essex_Street id_Anderson_Street"
+              d="M -668.991882,-1097.350952 A 138.267372,138.267372 0,0 1,-519.712830,-1089.275146"
+              stroke="#000000" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anderson_Street id_New_Bridge_Landing"
+              d="M -502.603729,-1087.010620 A 145.588259,145.588259 0,0 1,-347.809814,-1053.863037"
+              stroke="#000000" stroke-width="3.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New_Bridge_Landing id_River_Edge"
+              d="M -331.469391,-1049.614990 A 188.254412,188.254412 0,0 1,-131.582855,-986.573120"
+              stroke="#000000" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_River_Edge id_Oradell"
+              d="M -115.902328,-981.254578 A 172.192986,172.192986 0,0 1,63.109058,-916.716492"
+              stroke="#000000" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Oradell id_Emerson"
+              d="M 78.549324,-910.916748 A 204.535705,204.535705 0,0 1,291.592651,-826.511536"
+              stroke="#000000" stroke-width="2.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Emerson id_Westwood"
+              d="M 306.778320,-820.333435 A 179.930108,179.930108 0,0 1,491.211304,-744.043335"
+              stroke="#000000" stroke-width="1.8" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Westwood id_Hillsdale"
+              d="M 506.435547,-737.078186 A 206.153111,206.153111 0,0 1,712.530090,-632.526550"
+              stroke="#000000" stroke-width="2.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hillsdale id_Woodcliff_Lake"
+              d="M 727.166321,-623.689697 A 173.352603,173.352603 0,0 1,884.025330,-513.517639"
+              stroke="#000000" stroke-width="1.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Woodcliff_Lake id_Park_Ridge"
+              d="M 897.215942,-502.212402 A 192.688883,192.688883 0,0 1,1045.753418,-346.882050"
+              stroke="#000000" stroke-width="1.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Park_Ridge id_Montvale"
+              d="M 1056.100220,-332.422150 A 159.693648,159.693648 0,0 1,1137.731079,-177.328491"
+              stroke="#000000" stroke-width="1.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Montvale id_Pearl_River"
+              d="M 1144.037109,-160.886688 A 169.417311,169.417311 0,0 1,1189.595703,20.430866"
+              stroke="#000000" stroke-width="1.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pearl_River id_Nanuet"
+              d="M 1195.018066,34.083241 A 143.784708,143.784708 0,0 1,1271.950806,169.947800"
+              stroke="#000000" stroke-width="3.4" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nanuet id_Spring_Valley"
+              d="M 1280.961548,178.849274 A 109.542079,109.542079 0,0 1,1382.241699,233.152145"
+              stroke="#000000" stroke-width="3.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Union id_Roselle_Park"
+              d="M -860.341614,457.608856 A 113.253385,113.253385 0,0 1,-959.679688,523.834961"
+              stroke="#000000" stroke-width="3.9" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Roselle_Park id_Cranford"
+              d="M -968.402893,533.639893 A 109.583863,109.583863 0,0 1,-1020.460388,636.148804"
+              stroke="#000000" stroke-width="3.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cranford id_Garwood"
+              d="M -1020.763672,635.634521 A 118.549558,118.549558 0,0 1,-895.089539,640.482666"
+              stroke="#000000" stroke-width="1.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Garwood id_Westfield"
+              d="M -880.493225,638.918640 A 137.018694,137.018694 0,0 1,-736.966431,602.826660"
+              stroke="#000000" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Westfield id_Fanwood"
+              d="M -722.383667,597.829651 A 188.825282,188.825282 0,0 1,-529.023071,515.194275"
+              stroke="#000000" stroke-width="3.6" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Fanwood id_Netherwood"
+              d="M -513.989868,508.804474 A 158.909753,158.909753 0,0 1,-353.765472,440.129028"
+              stroke="#000000" stroke-width="1.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Netherwood id_Plainfield"
+              d="M -338.818512,433.619751 A 182.896874,182.896874 0,0 1,-152.695358,352.196228"
+              stroke="#000000" stroke-width="2.1" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Plainfield id_Dunellen"
+              d="M -137.610931,345.734497 A 152.767849,152.767849 0,0 1,15.988582,280.349213"
+              stroke="#000000" stroke-width="5.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dunellen id_Bound_Brook"
+              d="M 31.813185,274.448090 A 182.061608,182.061608 0,0 1,224.563721,213.521744"
+              stroke="#000000" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bound_Brook id_Bridgewater"
+              d="M 241.079926,209.422440 A 164.154237,164.154237 0,0 1,418.677338,176.479004"
+              stroke="#000000" stroke-width="2.7" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bridgewater id_Somerville"
+              d="M 435.345245,174.117920 A 207.695876,207.695876 0,0 1,667.318665,152.800812"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Somerville id_Raritan"
+              d="M 684.176575,152.140259 A 163.925075,163.925075 0,0 1,864.523804,153.380951"
+              stroke="#000000" stroke-width="2.2" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Raritan id_North_Branch"
+              d="M 880.824097,153.410873 A 169.756056,169.756056 0,0 1,1068.184448,153.006256"
+              stroke="#000000" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_North_Branch id_White_House"
+              d="M 1085.791870,155.399246 A 117.023489,117.023489 0,0 1,1205.587280,187.144104"
+              stroke="#000000" stroke-width="6.3" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_White_House id_Lebanon"
+              d="M 1221.800537,197.202087 A 115.009519,115.009519 0,0 1,1301.926147,288.543884"
+              stroke="#000000" stroke-width="6.5" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lebanon id_Annandale"
+              d="M 1301.292480,308.302765 A 90.781475,90.781475 0,0 1,1236.868042,374.401123"
+              stroke="#000000" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Annandale id_High_Bridge"
+              d="M 1232.357544,384.982544 A 70.723836,70.723836 0,0 1,1231.156006,453.032196"
+              stroke="#000000" stroke-width="2.6" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1564.6571"
+                class="id_Philadelphia" cy="286.03806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1431.2749"
+                class="id_Pennsauken" cy="290.9462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1319.748"
+                class="id_Cherry_Hill" cy="386.97244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1158.603"
+                class="id_Lindenwold" cy="479.20917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-965.1299"
+                class="id_Atco" cy="561.8277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-842.4966"
+                class="id_Hammonton" cy="721.9711" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-713.8834"
+                class="id_Egg_Harbor_City" cy="868.258" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-615.0804"
+                class="id_Absecon" cy="1018.9228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-551.17224"
+                class="id_Atlantic_City_Rail_Terminal" cy="1138.3002"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-541.6747"
+                class="id_Hoboken" cy="-581.56244" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-572.4439"
+                class="id_Secaucus_Lower_Lvl" cy="-777.0729" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-657.2455"
+                class="id_Rutherford" cy="-918.6622" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-715.3254"
+                class="id_Wesmont" cy="-1041.3542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-675.96313"
+                class="id_Garfield" cy="-1143.5669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-655.6052"
+                class="id_Plauderville" cy="-1286.6664" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-562.0478"
+                class="id_Broadway_Fair_Lawn" cy="-1355.4028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-421.59027"
+                class="id_Radburn_Fair_Lawn" cy="-1330.9554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-286.54398"
+                class="id_Glen_Rock_Boro_Hall" cy="-1241.8704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-145.59921"
+                class="id_Ridgewood" cy="-1309.6654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-113.599045"
+                class="id_Ho-Ho-Kus" cy="-1374.4586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-34.871597"
+                class="id_Waldwick" cy="-1405.6831" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="80.49518"
+                class="id_Allendale" cy="-1387.711" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="189.82413"
+                class="id_Ramsey_Main_St" cy="-1281.7565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="239.97282"
+                class="id_Ramsey_Route_17" cy="-1138.0941" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="276.97513"
+                class="id_Mahwah" cy="-974.1614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="397.6405"
+                class="id_Suffern" cy="-915.14984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="518.7303"
+                class="id_Sloatsburg" cy="-876.56177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="642.2312"
+                class="id_Tuxedo" cy="-944.36597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="736.7396"
+                class="id_Harriman" cy="-1044.752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="727.0613"
+                class="id_Salisbury_Mills-Cornwall" cy="-1136.9546"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="623.35547"
+                class="id_Campbell_Hall" cy="-1102.0735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="715.3736"
+                class="id_Middletown_NY" cy="-1276.7336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="783.3247"
+                class="id_Otisville" cy="-1418.0798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="831.19073"
+                class="id_Port_Jervis" cy="-1520.9454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-484.93304"
+                class="id_New_York_Penn_Station" cy="175.12784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-394.08"
+                class="id_Newark_Broad_Street" cy="155.37994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-225.8965"
+                class="id_East_Orange" cy="285.52213" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-62.56382"
+                class="id_Brick_Church" cy="471.68445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="59.66533"
+                class="id_Orange" cy="640.841" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="204.13622"
+                class="id_Highland_Avenue" cy="821.73914" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="333.9375"
+                class="id_Mountain_Station" cy="953.8487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="527.1882"
+                class="id_South_Orange" cy="1025.0735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="661.7378"
+                class="id_Maplewood" cy="978.5345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="734.37305"
+                class="id_Millburn" cy="843.9084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="699.3541"
+                class="id_Short_Hills" cy="691.5494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="629.5654"
+                class="id_Summit" cy="520.7852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="541.7794"
+                class="id_New_Providence" cy="656.5559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="483.57394"
+                class="id_Murray_Hill" cy="791.6638" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="473.4243"
+                class="id_Berkeley_Heights" cy="924.12" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="500.53967"
+                class="id_Gillette" cy="977.90045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="558.5385"
+                class="id_Stirling" cy="878.99634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="577.01385"
+                class="id_Millington" cy="700.4417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="582.35657"
+                class="id_Lyons" cy="516.4919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="609.1553"
+                class="id_Basking_Ridge" cy="282.90335" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="657.4879"
+                class="id_Bernardsville" cy="83.314224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="740.7229"
+                class="id_Far_Hills" cy="-110.67462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="818.46045"
+                class="id_Peapack" cy="-234.31245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="907.4775"
+                class="id_Gladstone" cy="-334.9161" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-406.71115"
+                class="id_Kingsland" cy="-815.72046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-231.99234"
+                class="id_Lyndhurst" cy="-887.5923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-83.884735"
+                class="id_Delawanna" cy="-983.385" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="47.591152"
+                class="id_Passaic" cy="-1106.4856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="132.21909"
+                class="id_Clifton" cy="-1241.8867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="172.03204"
+                class="id_Paterson" cy="-1388.2903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="104.12784"
+                class="id_Hawthorne" cy="-1445.3024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-11.901596"
+                class="id_Glen_Rock_Main_Line" cy="-1400.6095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-545.93915"
+                class="id_Secaucus_Upper_Lvl" cy="250.3536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-491.806"
+                class="id_Watsessing_Avenue" cy="-48.577923" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-608.47095"
+                class="id_Bloomfield" cy="-191.33185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-742.58704"
+                class="id_Glen_Ridge" cy="-300.54614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-942.1652"
+                class="id_Bay_Street" cy="-270.15366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1080.1818"
+                class="id_Walnut_Street" cy="-169.87135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1145.6952"
+                class="id_Watchung_Avenue" cy="-15.503769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1145.5526"
+                class="id_Upper_Montclair" cy="175.11366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1114.626"
+                class="id_Mountain_Avenue" cy="373.1528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1038.3386"
+                class="id_Montclair_Heights" cy="598.00006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-917.06665"
+                class="id_Little_Falls" cy="785.88684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-724.66064"
+                class="id_Wayne-Route_23" cy="941.97363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-519.4272"
+                class="id_Mountain_View" cy="965.4536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-294.5885"
+                class="id_Lincoln_Park" cy="900.0954" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-91.49574"
+                class="id_Towaco" cy="793.0515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="152.13458"
+                class="id_Boonton" cy="646.9316" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="376.27686"
+                class="id_Mountain_Lakes" cy="526.152" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="643.7401"
+                class="id_Denville" cy="418.78543" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="846.89026"
+                class="id_Dover" cy="481.38754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="968.7526"
+                class="id_Mount_Arlington" cy="510.2236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1011.17487"
+                class="id_Lake_Hopatcong" cy="553.4776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1125.8794"
+                class="id_Netcong" cy="634.5678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1154.6031"
+                class="id_Mount_Olive" cy="699.9216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1224.9554"
+                class="id_Hackettstown" cy="767.2274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="671.05945"
+                class="id_Chatham" cy="319.2595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="740.7517"
+                class="id_Madison" cy="157.90964" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="829.6542"
+                class="id_Convent_Station" cy="43.75071" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="906.56085"
+                class="id_Morristown" cy="31.231737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="865.8595"
+                class="id_Morris_Plains" cy="136.85129" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="759.634"
+                class="id_Mount_Tabor" cy="275.90857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-680.40137"
+                class="id_Newark_Penn_Station" cy="397.69876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-704.8551"
+                class="id_Newark_Airport" cy="566.435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-705.57965"
+                class="id_North_Elizabeth" cy="743.3356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-659.95435"
+                class="id_Elizabeth" cy="884.7669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-541.3977"
+                class="id_Linden" cy="968.4463" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-383.89905"
+                class="id_Rahway" cy="975.0412" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-519.57587"
+                class="id_Avenel" cy="847.2632" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-622.55096"
+                class="id_Woodbridge" cy="717.3685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-743.519"
+                class="id_Perth_Amboy" cy="537.7549" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-816.9466"
+                class="id_South_Amboy" cy="378.1041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-883.26825"
+                class="id_Aberdeen-Matawan" cy="201.03879" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-917.32135"
+                class="id_Allenhurst" cy="63.056698" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-918.75305"
+                class="id_Asbury_Park" cy="-89.757866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-871.0809"
+                class="id_Red_Bank" cy="-197.2303" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-782.8321"
+                class="id_Little_Silver" cy="-285.56708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-936.0476"
+                class="id_Long_Branch" cy="-384.4299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1104.0504"
+                class="id_Manasquan" cy="-442.8683" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1242.247"
+                class="id_Point_Pleasant_Beach" cy="-464.20633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1343.7281"
+                class="id_Bay_Head" cy="-458.78702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-205.48352"
+                class="id_Metropark" cy="1025.7671" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1.3447266"
+                class="id_Metuchen" cy="1029.7601" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="177.08234"
+                class="id_Edison" cy="987.3386" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="369.24554"
+                class="id_New_Brunswick" cy="924.2792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="537.4503"
+                class="id_Jersey_Avenue" cy="1074.5669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="685.5875"
+                class="id_Princeton_Junction" cy="1209.6686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="782.0737"
+                class="id_Hamilton" cy="1361.0336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="858.03015"
+                class="id_Trenton" cy="1476.1912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-707.7857"
+                class="id_Wood_Ridge" cy="-874.4643" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-757.1512"
+                class="id_Teterboro" cy="-996.78455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-677.49994"
+                class="id_Essex_Street" cy="-1092.0961" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-511.82135"
+                class="id_Anderson_Street" cy="-1083.133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-340.98837"
+                class="id_New_Bridge_Landing" cy="-1046.5509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-125.54419"
+                class="id_River_Edge" cy="-978.6023" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="68.840324"
+                class="id_Oradell" cy="-908.52185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="297.02704"
+                class="id_Emerson" cy="-818.11707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="496.5475"
+                class="id_Westwood" cy="-735.58606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="717.1663"
+                class="id_Hillsdale" cy="-623.66626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="887.3963"
+                class="id_Woodcliff_Lake" cy="-504.10297" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1047.2032"
+                class="id_Park_Ridge" cy="-336.9877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1136.4576"
+                class="id_Montvale" cy="-167.40991" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1185.9999"
+                class="id_Pearl_River" cy="29.762016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1271.0173"
+                class="id_Nanuet" cy="179.90413" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1386.8666"
+                class="id_Spring_Valley" cy="242.01842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="688.016"
+                class="id_Princeton" cy="1086.1112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-856.6004"
+                class="id_Union" cy="448.33505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-969.679"
+                class="id_Roselle_Park" cy="523.7217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-1029.2216"
+                class="id_Cranford" cy="640.9697" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-887.0678"
+                class="id_Garwood" cy="646.45355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-727.60974"
+                class="id_Westfield" cy="606.3554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-519.2494"
+                class="id_Fanwood" cy="517.30963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-343.97916"
+                class="id_Netherwood" cy="442.18524" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="-142.90225"
+                class="id_Plainfield" cy="354.21988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="25.772392"
+                class="id_Dunellen" cy="282.41733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="234.08742"
+                class="id_Bound_Brook" cy="216.57121" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="427.76855"
+                class="id_Bridgewater" cy="180.64432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="675.9579"
+                class="id_Somerville" cy="157.83705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="872.6633"
+                class="id_Raritan" cy="159.19028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1076.3701"
+                class="id_North_Branch" cy="158.75035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1212.1132"
+                class="id_White_House" cy="194.72122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1303.1239"
+                class="id_Lebanon" cy="298.4719" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1227.0874"
+                class="id_Annandale" cy="376.484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#000000" r="9.2" cx="1225.5891"
+                class="id_High_Bridge" cy="461.3394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-1564.6571" y="291.52634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Philadelphia">
+            Philadelphia
+        </text>
+        <text font-size="24" x="-1431.2749" y="295.31143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pennsauken">
+            Pennsauken
+        </text>
+        <text font-size="24" x="-1319.748" y="392.60526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cherry_Hill">
+            Cherry Hill
+        </text>
+        <text font-size="24" x="-1158.603" y="483.5744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lindenwold">
+            Lindenwold
+        </text>
+        <text font-size="24" x="-965.1299" y="566.19293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Atco">
+            Atco
+        </text>
+        <text font-size="24" x="-842.4966" y="726.33636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hammonton">
+            Hammonton
+        </text>
+        <text font-size="24" x="-713.8834" y="873.8908" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Egg_Harbor_City">
+            Egg Harbor City
+        </text>
+        <text font-size="24" x="-615.0804" y="1023.288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Absecon">
+            Absecon
+        </text>
+        <text font-size="24" x="-551.17224" y="1143.933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Atlantic_City_Rail_Terminal">
+            Atlantic City Rail Terminal
+        </text>
+        <text font-size="24" x="-541.6747" y="-577.1972" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hoboken">
+            Hoboken
+        </text>
+        <text font-size="24" x="-572.4439" y="-772.6295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Secaucus_Lower_Lvl">
+            Secaucus Lower Lvl
+        </text>
+        <text font-size="24" x="-657.2455" y="-914.2227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rutherford">
+            Rutherford
+        </text>
+        <text font-size="24" x="-715.3254" y="-1036.989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wesmont">
+            Wesmont
+        </text>
+        <text font-size="24" x="-675.96313" y="-1139.1235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Garfield">
+            Garfield
+        </text>
+        <text font-size="24" x="-655.6052" y="-1282.3011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Plauderville">
+            Plauderville
+        </text>
+        <text font-size="24" x="-562.0478" y="-1349.8442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Broadway_Fair_Lawn">
+            Broadway Fair Lawn
+        </text>
+        <text font-size="24" x="-421.59027" y="-1326.5902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Radburn_Fair_Lawn">
+            Radburn Fair Lawn
+        </text>
+        <text font-size="24" x="-286.54398" y="-1237.427" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Glen_Rock_Boro_Hall">
+            Glen Rock Boro Hall
+        </text>
+        <text font-size="24" x="-145.59921" y="-1304.1068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ridgewood">
+            Ridgewood
+        </text>
+        <text font-size="24" x="-113.599045" y="-1370.0934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ho-Ho-Kus">
+            Ho-Ho-Kus
+        </text>
+        <text font-size="24" x="-34.871597" y="-1401.3179" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waldwick">
+            Waldwick
+        </text>
+        <text font-size="24" x="80.49518" y="-1383.3458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Allendale">
+            Allendale
+        </text>
+        <text font-size="24" x="189.82413" y="-1276.1237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramsey_Main_St">
+            Ramsey Main St
+        </text>
+        <text font-size="24" x="239.97282" y="-1132.518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramsey_Route_17">
+            Ramsey Route 17
+        </text>
+        <text font-size="24" x="276.97513" y="-969.79614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mahwah">
+            Mahwah
+        </text>
+        <text font-size="24" x="397.6405" y="-910.7065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Suffern">
+            Suffern
+        </text>
+        <text font-size="24" x="518.7303" y="-870.92896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sloatsburg">
+            Sloatsburg
+        </text>
+        <text font-size="24" x="642.2312" y="-940.00073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tuxedo">
+            Tuxedo
+        </text>
+        <text font-size="24" x="736.7396" y="-1040.3867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Harriman">
+            Harriman
+        </text>
+        <text font-size="24" x="727.0613" y="-1131.3218" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Salisbury_Mills-Cornwall">
+            Salisbury Mills-Cornwall
+        </text>
+        <text font-size="24" x="623.35547" y="-1096.511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Campbell_Hall">
+            Campbell Hall
+        </text>
+        <text font-size="24" x="715.3736" y="-1272.3684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Middletown_NY">
+            Middletown NY
+        </text>
+        <text font-size="24" x="783.3247" y="-1413.6345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Otisville">
+            Otisville
+        </text>
+        <text font-size="24" x="831.19073" y="-1516.5763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Port_Jervis">
+            Port Jervis
+        </text>
+        <text font-size="24" x="-484.93304" y="179.5712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_York_Penn_Station">
+            New York Penn Station
+        </text>
+        <text font-size="24" x="-394.08" y="159.8233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Newark_Broad_Street">
+            Newark Broad Street
+        </text>
+        <text font-size="24" x="-225.8965" y="291.1569" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_East_Orange">
+            East Orange
+        </text>
+        <text font-size="24" x="-62.56382" y="476.1278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Brick_Church">
+            Brick Church
+        </text>
+        <text font-size="24" x="59.66533" y="646.47577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Orange">
+            Orange
+        </text>
+        <text font-size="24" x="204.13622" y="827.2977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Highland_Avenue">
+            Highland Avenue
+        </text>
+        <text font-size="24" x="333.9375" y="958.29205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mountain_Station">
+            Mountain Station
+        </text>
+        <text font-size="24" x="527.1882" y="1030.7083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_South_Orange">
+            South Orange
+        </text>
+        <text font-size="24" x="661.7378" y="984.02277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maplewood">
+            Maplewood
+        </text>
+        <text font-size="24" x="734.37305" y="848.2736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Millburn">
+            Millburn
+        </text>
+        <text font-size="24" x="699.3541" y="695.99274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Short_Hills">
+            Short Hills
+        </text>
+        <text font-size="24" x="629.5654" y="525.2286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Summit">
+            Summit
+        </text>
+        <text font-size="24" x="541.7794" y="660.92114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_Providence">
+            New Providence
+        </text>
+        <text font-size="24" x="483.57394" y="797.2224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Murray_Hill">
+            Murray Hill
+        </text>
+        <text font-size="24" x="473.4243" y="929.6786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Berkeley_Heights">
+            Berkeley Heights
+        </text>
+        <text font-size="24" x="500.53967" y="982.3438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gillette">
+            Gillette
+        </text>
+        <text font-size="24" x="558.5385" y="884.62915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stirling">
+            Stirling
+        </text>
+        <text font-size="24" x="577.01385" y="706.0003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Millington">
+            Millington
+        </text>
+        <text font-size="24" x="582.35657" y="522.0505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lyons">
+            Lyons
+        </text>
+        <text font-size="24" x="609.1553" y="288.46194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Basking_Ridge">
+            Basking Ridge
+        </text>
+        <text font-size="24" x="657.4879" y="87.67946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bernardsville">
+            Bernardsville
+        </text>
+        <text font-size="24" x="740.7229" y="-106.30939" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Far_Hills">
+            Far Hills
+        </text>
+        <text font-size="24" x="818.46045" y="-228.82417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Peapack">
+            Peapack
+        </text>
+        <text font-size="24" x="907.4775" y="-330.47275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gladstone">
+            Gladstone
+        </text>
+        <text font-size="24" x="-406.71115" y="-810.16187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kingsland">
+            Kingsland
+        </text>
+        <text font-size="24" x="-231.99234" y="-882.0337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lyndhurst">
+            Lyndhurst
+        </text>
+        <text font-size="24" x="-83.884735" y="-979.0198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Delawanna">
+            Delawanna
+        </text>
+        <text font-size="24" x="47.591152" y="-1102.1204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Passaic">
+            Passaic
+        </text>
+        <text font-size="24" x="132.21909" y="-1237.4434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Clifton">
+            Clifton
+        </text>
+        <text font-size="24" x="172.03204" y="-1383.925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paterson">
+            Paterson
+        </text>
+        <text font-size="24" x="104.12784" y="-1440.9371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hawthorne">
+            Hawthorne
+        </text>
+        <text font-size="24" x="-11.901596" y="-1396.1661" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Glen_Rock_Main_Line">
+            Glen Rock Main Line
+        </text>
+        <text font-size="24" x="-545.93915" y="255.9161" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Secaucus_Upper_Lvl">
+            Secaucus Upper Lvl
+        </text>
+        <text font-size="24" x="-491.806" y="-43.01933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Watsessing_Avenue">
+            Watsessing Avenue
+        </text>
+        <text font-size="24" x="-608.47095" y="-186.8924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bloomfield">
+            Bloomfield
+        </text>
+        <text font-size="24" x="-742.58704" y="-294.91333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Glen_Ridge">
+            Glen Ridge
+        </text>
+        <text font-size="24" x="-942.1652" y="-264.52084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bay_Street">
+            Bay Street
+        </text>
+        <text font-size="24" x="-1080.1818" y="-165.428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Walnut_Street">
+            Walnut Street
+        </text>
+        <text font-size="24" x="-1145.6952" y="-9.945175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Watchung_Avenue">
+            Watchung Avenue
+        </text>
+        <text font-size="24" x="-1145.5526" y="180.60194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Upper_Montclair">
+            Upper Montclair
+        </text>
+        <text font-size="24" x="-1114.626" y="377.51804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mountain_Avenue">
+            Mountain Avenue
+        </text>
+        <text font-size="24" x="-1038.3386" y="603.55865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Montclair_Heights">
+            Montclair Heights
+        </text>
+        <text font-size="24" x="-917.06665" y="790.2521" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Little_Falls">
+            Little Falls
+        </text>
+        <text font-size="24" x="-724.66064" y="947.5498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wayne-Route_23">
+            Wayne-Route 23
+        </text>
+        <text font-size="24" x="-519.4272" y="969.81885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mountain_View">
+            Mountain View
+        </text>
+        <text font-size="24" x="-294.5885" y="904.46063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lincoln_Park">
+            Lincoln Park
+        </text>
+        <text font-size="24" x="-91.49574" y="797.41675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Towaco">
+            Towaco
+        </text>
+        <text font-size="24" x="152.13458" y="651.2968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Boonton">
+            Boonton
+        </text>
+        <text font-size="24" x="376.27686" y="530.5172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mountain_Lakes">
+            Mountain Lakes
+        </text>
+        <text font-size="24" x="643.7401" y="423.15067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Denville">
+            Denville
+        </text>
+        <text font-size="24" x="846.89026" y="485.75278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dover">
+            Dover
+        </text>
+        <text font-size="24" x="968.7526" y="515.7822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mount_Arlington">
+            Mount Arlington
+        </text>
+        <text font-size="24" x="1011.17487" y="559.0362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lake_Hopatcong">
+            Lake Hopatcong
+        </text>
+        <text font-size="24" x="1125.8794" y="640.1264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Netcong">
+            Netcong
+        </text>
+        <text font-size="24" x="1154.6031" y="704.3669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mount_Olive">
+            Mount Olive
+        </text>
+        <text font-size="24" x="1224.9554" y="771.59265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hackettstown">
+            Hackettstown
+        </text>
+        <text font-size="24" x="671.05945" y="323.70285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chatham">
+            Chatham
+        </text>
+        <text font-size="24" x="740.7517" y="162.27487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Madison">
+            Madison
+        </text>
+        <text font-size="24" x="829.6542" y="48.19407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Convent_Station">
+            Convent Station
+        </text>
+        <text font-size="24" x="906.56085" y="35.59697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Morristown">
+            Morristown
+        </text>
+        <text font-size="24" x="865.8595" y="141.21652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Morris_Plains">
+            Morris Plains
+        </text>
+        <text font-size="24" x="759.634" y="280.2738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mount_Tabor">
+            Mount Tabor
+        </text>
+        <text font-size="24" x="-680.40137" y="402.14212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Newark_Penn_Station">
+            Newark Penn Station
+        </text>
+        <text font-size="24" x="-704.8551" y="571.9233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Newark_Airport">
+            Newark Airport
+        </text>
+        <text font-size="24" x="-705.57965" y="747.7008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_North_Elizabeth">
+            North Elizabeth
+        </text>
+        <text font-size="24" x="-659.95435" y="889.13214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Elizabeth">
+            Elizabeth
+        </text>
+        <text font-size="24" x="-541.3977" y="972.8115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Linden">
+            Linden
+        </text>
+        <text font-size="24" x="-383.89905" y="980.5998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rahway">
+            Rahway
+        </text>
+        <text font-size="24" x="-519.57587" y="851.6284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Avenel">
+            Avenel
+        </text>
+        <text font-size="24" x="-622.55096" y="722.9271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Woodbridge">
+            Woodbridge
+        </text>
+        <text font-size="24" x="-743.519" y="543.3135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Perth_Amboy">
+            Perth Amboy
+        </text>
+        <text font-size="24" x="-816.9466" y="383.7369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_South_Amboy">
+            South Amboy
+        </text>
+        <text font-size="24" x="-883.26825" y="205.40402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aberdeen-Matawan">
+            Aberdeen-Matawan
+        </text>
+        <text font-size="24" x="-917.32135" y="67.421936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Allenhurst">
+            Allenhurst
+        </text>
+        <text font-size="24" x="-918.75305" y="-84.19927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Asbury_Park">
+            Asbury Park
+        </text>
+        <text font-size="24" x="-871.0809" y="-192.86507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Red_Bank">
+            Red Bank
+        </text>
+        <text font-size="24" x="-782.8321" y="-281.12372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Little_Silver">
+            Little Silver
+        </text>
+        <text font-size="24" x="-936.0476" y="-378.8713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Long_Branch">
+            Long Branch
+        </text>
+        <text font-size="24" x="-1104.0504" y="-437.38" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Manasquan">
+            Manasquan
+        </text>
+        <text font-size="24" x="-1242.247" y="-459.8411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Point_Pleasant_Beach">
+            Point Pleasant Beach
+        </text>
+        <text font-size="24" x="-1343.7281" y="-453.22842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bay_Head">
+            Bay Head
+        </text>
+        <text font-size="24" x="-205.48352" y="1031.2554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Metropark">
+            Metropark
+        </text>
+        <text font-size="24" x="-1.3447266" y="1034.1254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Metuchen">
+            Metuchen
+        </text>
+        <text font-size="24" x="177.08234" y="991.70386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edison">
+            Edison
+        </text>
+        <text font-size="24" x="369.24554" y="928.6444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_Brunswick">
+            New Brunswick
+        </text>
+        <text font-size="24" x="537.4503" y="1080.1255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jersey_Avenue">
+            Jersey Avenue
+        </text>
+        <text font-size="24" x="685.5875" y="1214.0377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Princeton_Junction">
+            Princeton Junction
+        </text>
+        <text font-size="24" x="782.0737" y="1365.3988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hamilton">
+            Hamilton
+        </text>
+        <text font-size="24" x="858.03015" y="1480.5564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Trenton">
+            Trenton
+        </text>
+        <text font-size="24" x="-707.7857" y="-868.9057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wood_Ridge">
+            Wood Ridge
+        </text>
+        <text font-size="24" x="-757.1512" y="-992.4193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Teterboro">
+            Teterboro
+        </text>
+        <text font-size="24" x="-677.49994" y="-1087.6527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Essex_Street">
+            Essex Street
+        </text>
+        <text font-size="24" x="-511.82135" y="-1078.6897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anderson_Street">
+            Anderson Street
+        </text>
+        <text font-size="24" x="-340.98837" y="-1040.9923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New_Bridge_Landing">
+            New Bridge Landing
+        </text>
+        <text font-size="24" x="-125.54419" y="-973.0437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_River_Edge">
+            River Edge
+        </text>
+        <text font-size="24" x="68.840324" y="-904.07654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Oradell">
+            Oradell
+        </text>
+        <text font-size="24" x="297.02704" y="-813.75183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Emerson">
+            Emerson
+        </text>
+        <text font-size="24" x="496.5475" y="-731.2208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Westwood">
+            Westwood
+        </text>
+        <text font-size="24" x="717.1663" y="-619.301" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hillsdale">
+            Hillsdale
+        </text>
+        <text font-size="24" x="887.3963" y="-499.6635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Woodcliff_Lake">
+            Woodcliff Lake
+        </text>
+        <text font-size="24" x="1047.2032" y="-331.4291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Park_Ridge">
+            Park Ridge
+        </text>
+        <text font-size="24" x="1136.4576" y="-163.04468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Montvale">
+            Montvale
+        </text>
+        <text font-size="24" x="1185.9999" y="34.12725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pearl_River">
+            Pearl River
+        </text>
+        <text font-size="24" x="1271.0173" y="184.26936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nanuet">
+            Nanuet
+        </text>
+        <text font-size="24" x="1386.8666" y="247.65123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Spring_Valley">
+            Spring Valley
+        </text>
+        <text font-size="24" x="688.016" y="1090.4764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Princeton">
+            Princeton
+        </text>
+        <text font-size="24" x="-856.6004" y="452.7042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Union">
+            Union
+        </text>
+        <text font-size="24" x="-969.679" y="528.0869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roselle_Park">
+            Roselle Park
+        </text>
+        <text font-size="24" x="-1029.2216" y="645.4131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cranford">
+            Cranford
+        </text>
+        <text font-size="24" x="-887.0678" y="650.8969" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Garwood">
+            Garwood
+        </text>
+        <text font-size="24" x="-727.60974" y="610.79486" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Westfield">
+            Westfield
+        </text>
+        <text font-size="24" x="-519.2494" y="521.67487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fanwood">
+            Fanwood
+        </text>
+        <text font-size="24" x="-343.97916" y="446.55048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Netherwood">
+            Netherwood
+        </text>
+        <text font-size="24" x="-142.90225" y="358.65933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Plainfield">
+            Plainfield
+        </text>
+        <text font-size="24" x="25.772392" y="286.78256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dunellen">
+            Dunellen
+        </text>
+        <text font-size="24" x="234.08742" y="220.93645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bound_Brook">
+            Bound Brook
+        </text>
+        <text font-size="24" x="427.76855" y="186.20291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bridgewater">
+            Bridgewater
+        </text>
+        <text font-size="24" x="675.9579" y="162.28041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Somerville">
+            Somerville
+        </text>
+        <text font-size="24" x="872.6633" y="163.55551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Raritan">
+            Raritan
+        </text>
+        <text font-size="24" x="1076.3701" y="163.11559" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_North_Branch">
+            North Branch
+        </text>
+        <text font-size="24" x="1212.1132" y="199.08646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_White_House">
+            White House
+        </text>
+        <text font-size="24" x="1303.1239" y="302.83713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lebanon">
+            Lebanon
+        </text>
+        <text font-size="24" x="1227.0874" y="380.84924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Annandale">
+            Annandale
+        </text>
+        <text font-size="24" x="1225.5891" y="466.89798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_High_Bridge">
+            High Bridge
+        </text>
+    </g>
+</svg>

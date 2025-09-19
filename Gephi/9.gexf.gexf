@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Hoboken" label="Hoboken" />
+      <node id="Secaucus Lower Lvl" label="Secaucus Lower Lvl" />
+      <node id="Wood Ridge" label="Wood Ridge" />
+      <node id="Teterboro" label="Teterboro" />
+      <node id="Essex Street" label="Essex Street" />
+      <node id="Anderson Street" label="Anderson Street" />
+      <node id="New Bridge Landing" label="New Bridge Landing" />
+      <node id="River Edge" label="River Edge" />
+      <node id="Oradell" label="Oradell" />
+      <node id="Emerson" label="Emerson" />
+      <node id="Westwood" label="Westwood" />
+      <node id="Hillsdale" label="Hillsdale" />
+      <node id="Woodcliff Lake" label="Woodcliff Lake" />
+      <node id="Park Ridge" label="Park Ridge" />
+      <node id="Montvale" label="Montvale" />
+      <node id="Pearl River" label="Pearl River" />
+      <node id="Nanuet" label="Nanuet" />
+      <node id="Spring Valley" label="Spring Valley" />
+    </nodes>
+    <edges>
+      <edge source="Hoboken" target="Secaucus Lower Lvl" id="0" weight="6.5" />
+      <edge source="Secaucus Lower Lvl" target="Wood Ridge" id="1" weight="6.7" />
+      <edge source="Wood Ridge" target="Teterboro" id="2" weight="2.9" />
+      <edge source="Teterboro" target="Essex Street" id="3" weight="4.3" />
+      <edge source="Essex Street" target="Anderson Street" id="4" weight="1.0" />
+      <edge source="Anderson Street" target="New Bridge Landing" id="5" weight="3.1" />
+      <edge source="New Bridge Landing" target="River Edge" id="6" weight="1.5" />
+      <edge source="River Edge" target="Oradell" id="7" weight="3.0" />
+      <edge source="Oradell" target="Emerson" id="8" weight="2.6" />
+      <edge source="Emerson" target="Westwood" id="9" weight="1.8" />
+      <edge source="Westwood" target="Hillsdale" id="10" weight="2.4" />
+      <edge source="Hillsdale" target="Woodcliff Lake" id="11" weight="1.3" />
+      <edge source="Woodcliff Lake" target="Park Ridge" id="12" weight="1.2" />
+      <edge source="Park Ridge" target="Montvale" id="13" weight="1.9" />
+      <edge source="Montvale" target="Pearl River" id="14" weight="1.3" />
+      <edge source="Pearl River" target="Nanuet" id="15" weight="3.4" />
+      <edge source="Nanuet" target="Spring Valley" id="16" weight="3.9" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-12-21">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="New York Penn Station" label="New York Penn Station" />
+      <node id="Secaucus Upper Lvl" label="Secaucus Upper Lvl" />
+      <node id="Newark Broad Street" label="Newark Broad Street" />
+      <node id="Watsessing Avenue" label="Watsessing Avenue" />
+      <node id="Bloomfield" label="Bloomfield" />
+      <node id="Glen Ridge" label="Glen Ridge" />
+      <node id="Bay Street" label="Bay Street" />
+      <node id="Walnut Street" label="Walnut Street" />
+      <node id="Watchung Avenue" label="Watchung Avenue" />
+      <node id="Upper Montclair" label="Upper Montclair" />
+      <node id="Mountain Avenue" label="Mountain Avenue" />
+      <node id="Montclair Heights" label="Montclair Heights" />
+      <node id="Little Falls" label="Little Falls" />
+      <node id="Wayne-Route 23" label="Wayne-Route 23" />
+      <node id="Mountain View" label="Mountain View" />
+      <node id="Lincoln Park" label="Lincoln Park" />
+      <node id="Towaco" label="Towaco" />
+      <node id="Boonton" label="Boonton" />
+      <node id="Mountain Lakes" label="Mountain Lakes" />
+      <node id="Denville" label="Denville" />
+      <node id="Dover" label="Dover" />
+      <node id="Mount Arlington" label="Mount Arlington" />
+      <node id="Lake Hopatcong" label="Lake Hopatcong" />
+      <node id="Netcong" label="Netcong" />
+      <node id="Mount Olive" label="Mount Olive" />
+      <node id="Hackettstown" label="Hackettstown" />
+    </nodes>
+    <edges>
+      <edge source="New York Penn Station" target="Secaucus Upper Lvl" id="0" weight="6.9" />
+      <edge source="Secaucus Upper Lvl" target="Newark Broad Street" id="1" weight="10.7" />
+      <edge source="Newark Broad Street" target="Watsessing Avenue" id="2" weight="4.8" />
+      <edge source="Watsessing Avenue" target="Bloomfield" id="3" weight="1.4" />
+      <edge source="Bloomfield" target="Glen Ridge" id="4" weight="1.4" />
+      <edge source="Glen Ridge" target="Bay Street" id="5" weight="1.1" />
+      <edge source="Bay Street" target="Walnut Street" id="6" weight="0.3" />
+      <edge source="Walnut Street" target="Watchung Avenue" id="7" weight="1.2" />
+      <edge source="Watchung Avenue" target="Upper Montclair" id="8" weight="1.5" />
+      <edge source="Upper Montclair" target="Mountain Avenue" id="9" weight="0.9" />
+      <edge source="Mountain Avenue" target="Montclair Heights" id="10" weight="2.5" />
+      <edge source="Montclair Heights" target="Little Falls" id="11" weight="3.6" />
+      <edge source="Little Falls" target="Wayne-Route 23" id="12" weight="4.6" />
+      <edge source="Wayne-Route 23" target="Mountain View" id="13" weight="2.1" />
+      <edge source="Mountain View" target="Lincoln Park" id="14" weight="3.6" />
+      <edge source="Lincoln Park" target="Towaco" id="15" weight="3.5" />
+      <edge source="Towaco" target="Boonton" id="16" weight="5.6" />
+      <edge source="Boonton" target="Mountain Lakes" id="17" weight="3.1" />
+      <edge source="Mountain Lakes" target="Denville" id="18" weight="3.4" />
+      <edge source="Denville" target="Dover" id="19" weight="7.0" />
+      <edge source="Dover" target="Mount Arlington" id="20" weight="6.6" />
+      <edge source="Mount Arlington" target="Lake Hopatcong" id="21" weight="2.8" />
+      <edge source="Lake Hopatcong" target="Netcong" id="22" weight="4.2" />
+      <edge source="Netcong" target="Mount Olive" id="23" weight="2.8" />
+      <edge source="Mount Olive" target="Hackettstown" id="24" weight="9.2" />
+    </edges>
+  </graph>
+</gexf>
